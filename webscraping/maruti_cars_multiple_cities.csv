@@ -1,0 +1,781 @@
+﻿City,Year,Model Name,Kilometer Driven,Number of Owners,Transmission,Fuel Type,Location,Price
+Mumbai,2010,Maruti A Star LXI,"72,583 km",2nd owner,Manual,Petrol,Pali Hill Mumbai,₹0.82 lakh
+Mumbai,2012,Maruti A Star VXI (ABS) AT,"38,152 km",1st owner,Automatic,Petrol,Saki Naka Mumbai,₹2.44 lakh
+Mumbai,2011,Maruti Alto LXI,"70,000 km",1st owner,Manual,Petrol,Mumbra Thane Maharashtra,₹1.21 lakh
+Mumbai,2011,Maruti Alto LXI,"28,338 km",2nd owner,Manual,Petrol,Powai Mumbai,₹0.87 lakh
+Mumbai,2011,Maruti Alto LXI,"80,000 km",3rd owner,Manual,Petrol,Azad Nagar Thane Maharashtra,₹0.78 lakh
+Mumbai,2012,Maruti Alto LXI,"42,575 km",2nd owner,Manual,Petrol,Mulund colony mulund west Mumbai,₹1.03 lakh
+Mumbai,2012,Maruti Alto LXI,"80,427 km",3rd owner,Manual,Petrol,Mumbra Thane Maharashtra,₹0.7 lakh
+Mumbai,2021,Maruti Alto LXI CNG,"29,956 km",1st owner,Manual,CNG,Thakur Village Kandivali E Mumbai,₹3.49 lakh
+Mumbai,2012,Maruti Alto 800 LXI,"64,892 km",1st owner,Manual,Petrol,Seawood,₹1.44 lakh
+Mumbai,2012,Maruti Alto 800 LXI,"74,392 km",1st owner,Manual,Petrol,Ghansoli Navi Mumbai Maharashtra,₹1.25 lakh
+Mumbai,2014,Maruti Alto 800 LXI,"34,368 km",1st owner,Manual,Petrol,"Korum Mall, Thane West",₹1.9 lakh
+Mumbai,2014,Maruti Alto 800 LXI CNG,"1,18,076 km",2nd owner,Manual,Petrol,Ulwe Navi Mumbai,₹1.75 lakh
+Mumbai,2015,Maruti Alto 800 LXI CNG,"60,837 km",2nd owner,Manual,Petrol,Taloja Bypass Phata Antarli Maharashtra,₹2 lakh
+Mumbai,2016,Maruti Alto 800 LXI,"70,806 km",2nd owner,Manual,Petrol,"Goregaon, Mumbai",₹2.05 lakh
+Mumbai,2016,Maruti Alto 800 LXI CNG,"59,023 km",1st owner,Manual,CNG,Thakur Village Kandivali E Mumbai,₹2.5 lakh
+Mumbai,2016,Maruti Alto 800 LXI CNG,"15,304 km",3rd owner,Manual,Petrol,Dombivli East Dombivli Maharashtra,₹2.09 lakh
+Mumbai,2018,Maruti Alto 800 VXI,"33,338 km",1st owner,Manual,Petrol,Vasai West Vasai-Virar,₹2.25 lakh
+Mumbai,2018,Maruti Alto 800 VXI,"23,279 km",2nd owner,Manual,Petrol,"Korum Mall, Thane West",₹2.4 lakh
+Mumbai,2011,Maruti Alto K10 LXI,"55,855 km",1st owner,Manual,Petrol,Dombivli East Dombivli,₹1.03 lakh
+Mumbai,2015,Maruti Alto K10 VXI AMT,"46,109 km",1st owner,Automatic,Petrol,Seawood,₹2.55 lakh
+Mumbai,2015,Maruti Alto K10 VXI AMT,"78,217 km",2nd owner,Automatic,Petrol,Vitthalwadi east Maharashtra,₹2.35 lakh
+Mumbai,2016,Maruti Alto K10 VXI,"31,380 km",2nd owner,Manual,Petrol,Thakur Village Kandivali E Mumbai,₹2.4 lakh
+Mumbai,2016,Maruti Baleno ALPHA PETROL 1.2,"49,751 km",1st owner,Manual,Petrol,Kharghar Navi Mumbai Maharashtra,₹4.25 lakh
+Mumbai,2016,Maruti Baleno DELTA CVT PETROL 1.2,"79,604 km",2nd owner,Automatic,Petrol,Andheri East Mumbai Maharashtra,₹3.96 lakh
+Mumbai,2017,Maruti Baleno ZETA PETROL 1.2,"48,410 km",1st owner,Manual,Petrol,Gauripada Kalyan Maharashtra,₹5.04 lakh
+Mumbai,2017,Maruti Baleno ALPHA PETROL 1.2,"51,938 km",2nd owner,Manual,Petrol,Seawood,₹4.5 lakh
+Mumbai,2017,Maruti Baleno ZETA CVT PETROL 1.2,"62,632 km",1st owner,Automatic,Petrol,Goregaon West Mumbai Maharashtra,₹4.26 lakh
+Mumbai,2019,Maruti Baleno ALPHA CVT PETROL 1.2,"39,973 km",1st owner,Automatic,Petrol,Thakur Village Kandivali E Mumbai,₹6 lakh
+Mumbai,2019,Maruti Baleno DELTA CVT PETROL 1.2,"27,133 km",2nd owner,Automatic,Petrol,"Korum Mall, Thane West",₹5.15 lakh
+Mumbai,2020,Maruti Baleno DELTA PETROL 1.2,"24,762 km",1st owner,Manual,Petrol,Kohka Bajarang Para,₹5.35 lakh
+Mumbai,2020,Maruti Baleno ALPHA PETROL 1.2,"39,640 km",1st owner,Manual,Petrol,Seawood,₹6.25 lakh
+Mumbai,2022,Maruti Baleno ALPHA PETROL 1.2,"66,645 km",1st owner,Manual,Petrol,"Goregaon, Mumbai",₹6.29 lakh
+Mumbai,2022,Maruti Baleno ZETA 1.2 AGS,"14,948 km",1st owner,Automatic,Petrol,"Mulund West, Mumbai",₹7.5 lakh
+Mumbai,2024,Maruti Baleno DELTA PETROL 1.2,"14,651 km",1st owner,Manual,Petrol,"Goregaon, Mumbai",₹6.99 lakh
+Mumbai,2022,Maruti BREZZA ZXI,"37,934 km",1st owner,Manual,Petrol,Seawood,₹8.36 lakh
+Mumbai,2023,Maruti BREZZA ZXI + AT SMART HYBRID,"13,976 km",1st owner,Automatic,Petrol,Thakur Village Kandivali E Mumbai,₹11.51 lakh
+Mumbai,2014,Maruti Celerio VXI CNG,"1,57,873 km",1st owner,Manual,Petrol,opposite Parkwoods Thane Maharashtra,₹3.27 lakh
+Mumbai,2015,Maruti Celerio VXI AMT,"77,683 km",1st owner,Automatic,Petrol,Sion Mumbai Maharashtra,₹2.91 lakh
+Mumbai,2015,Maruti Celerio VXI AMT,"78,373 km",2nd owner,Automatic,Petrol,Seawood,₹3.03 lakh
+Mumbai,2017,Maruti Celerio ZXI AMT (O),"7,574 km",1st owner,Automatic,Petrol,"Goregaon, Mumbai",₹4 lakh
+Mumbai,2017,Maruti Celerio ZXI,"94,694 km",3rd owner,Manual,Petrol,Mira Road East Mira Bhayandar,₹2.62 lakh
+Mumbai,2017,Maruti Celerio VXI (O) CNG,"34,433 km",1st owner,Manual,Petrol,Thane West Thane Maharashtra,₹3.6 lakh
+Mumbai,2019,Maruti Celerio VXI AMT,"26,984 km",1st owner,Automatic,CNG,"Korum Mall, Thane West",₹4.2 lakh
+Mumbai,2022,Maruti Celerio VXI CNG,"15,377 km",1st owner,Manual,Petrol,Khemani Industry Area Ulhasnagar Maharashtra,₹5.46 lakh
+Mumbai,2022,Maruti Celerio VXI CNG,"65,201 km",1st owner,Manual,Petrol,Kandivali West Mumbai Maharashtra,₹5 lakh
+Mumbai,2023,Maruti Celerio ZXI PLUS AGS,"11,367 km",1st owner,Automatic,Petrol,Thakur Village Kandivali E Mumbai,₹5.94 lakh
+Mumbai,2020,Maruti Celerio X ZXI,"26,338 km",1st owner,Manual,Petrol,"Regency Anantam, Dombivli East",₹4.31 lakh
+Mumbai,2015,Maruti Ciaz ZXI,"76,720 km",2nd owner,Manual,Petrol,Mira Road East Mira Bhayandar,₹4.2 lakh
+Mumbai,2016,Maruti Ciaz ZDI SHVS,"85,723 km",2nd owner,Manual,Diesel,Mazgaon Mumbai Maharashtra,₹4.75 lakh
+Mumbai,2016,Maruti Ciaz VXI+,"39,062 km",1st owner,Manual,Petrol,Mira Road East Mira Bhayandar Maharashtra,₹4.48 lakh
+Mumbai,2017,Maruti Ciaz ZETA 1.4 AT PETROL,"66,617 km",1st owner,Automatic,Petrol,Borivali West Mumbai Maharashtra,₹5.18 lakh
+Mumbai,2017,Maruti Ciaz ALPHA 1.4 PETROL,"62,430 km",1st owner,Manual,Petrol,Malad West Mumbai Maharashtra,₹4.5 lakh
+Mumbai,2017,Maruti Ciaz DELTA 1.4 MT PETROL,"27,565 km",2nd owner,Manual,Petrol,Dahisar East Mumbai Maharashtra,₹4.45 lakh
+Mumbai,2017,Maruti Ciaz DELTA 1.4 MT PETROL,"1,27,182 km",1st owner,Manual,Petrol,"Goregaon, Mumbai",₹4.25 lakh
+Mumbai,2018,Maruti Ciaz ALPHA 1.5 SHVS PETROL,"55,464 km",2nd owner,Manual,Petrol,Kharghar Navi Mumbai Maharashtra,₹5.25 lakh
+Mumbai,2018,Maruti Ciaz ALPHA AT 1.4 PETROL,"75,054 km",1st owner,Automatic,Petrol,Cumballa Hill Mumbai Maharashtra,₹6.1 lakh
+Mumbai,2019,Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,"35,469 km",1st owner,Automatic,Petrol,"Mulund West, Mumbai",₹6.72 lakh
+Mumbai,2019,Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,"79,708 km",3rd owner,Automatic,Petrol,Lodha Casa Vista Dombivli East Thane,₹5.72 lakh
+Mumbai,2022,Maruti Ciaz SIGMA 1.5 SHVS MT PETROL,"36,597 km",1st owner,Manual,Petrol,"Regency Anantam, Dombivli East",₹7.5 lakh
+Mumbai,2023,Maruti Ciaz ALPHA AT 1.5 SHVS PETROL,"8,318 km",1st owner,Automatic,Petrol,"Regency Anantam, Dombivli East",₹9.1 lakh
+Mumbai,2017,Maruti Dzire ZDI PLUS,"77,346 km",1st owner,Manual,Diesel,Andheri East Mumbai Maharashtra,₹5.66 lakh
+Mumbai,2018,Maruti Dzire VXI AMT,"53,309 km",1st owner,Automatic,Petrol,"Regency Anantam, Dombivli East",₹5.1 lakh
+Mumbai,2018,Maruti Dzire VDI,"59,486 km",1st owner,Manual,Diesel,Thane West Thane Maharashtra,₹6.27 lakh
+Mumbai,2018,Maruti Dzire VXI AMT,"66,895 km",1st owner,Automatic,Petrol,"Mulund West, Mumbai",₹4.73 lakh
+Mumbai,2018,Maruti Dzire VXI,"58,382 km",1st owner,Manual,Petrol,Chembur Mumbai,₹4.93 lakh
+Mumbai,2018,Maruti Dzire VXI,"62,744 km",3rd owner,Manual,Petrol,Virar East Virar,₹4.34 lakh
+Mumbai,2019,Maruti Dzire VXI,"16,022 km",1st owner,Manual,Petrol,Seawood,₹5.03 lakh
+Mumbai,2022,Maruti Dzire VXI CNG,"47,680 km",1st owner,Manual,Petrol,Ghansoli Navi Mumbai Maharashtra,₹6.69 lakh
+Mumbai,2011,Maruti Eeco 5 STR WITH A/C+HTR CNG,"1,45,143 km",1st owner,Manual,Petrol,Qamar Park Mira Bhayandar,₹2.25 lakh
+Mumbai,2011,Maruti Eeco 5 STR WITH A/C+HTR,"93,102 km",3rd owner,Manual,Petrol,Mira Road East Mira Bhayandar,₹1.78 lakh
+Mumbai,2014,Maruti Eeco 5 STR WITH A/C+HTR CNG,"1,02,775 km",2nd owner,Manual,Petrol,Mumbra Thane Maharashtra,₹2.85 lakh
+Mumbai,2018,Maruti Eeco 5 STR WITH A/C+HTR,"32,490 km",1st owner,Manual,Petrol,Tivri Palghar Maharashtra,₹4.7 lakh
+Mumbai,2022,Maruti Eeco 5 STR AC CNG (O),"1,12,894 km",1st owner,Manual,Petrol,Kopar Khairane Navi Mumbai Maharashtra,₹5.53 lakh
+Mumbai,2022,Maruti Eeco 5 STR AC CNG (O),"42,789 km",2nd owner,Manual,Petrol,Chandansar Virar,₹6.38 lakh
+Mumbai,2025,Maruti Eeco 5 STR AC CNG,"2,631 km",1st owner,Manual,Petrol,Pawne Navi Mumbai Maharashtra,₹7.42 lakh
+Mumbai,2012,Maruti Ertiga LXI,"73,981 km",3rd owner,Manual,Petrol,Naigaon East Vasai-Virar,₹2.65 lakh
+Mumbai,2013,Maruti Ertiga ZXI,"88,828 km",1st owner,Manual,Petrol,Mulund East Mumbai Maharashtra,₹4.58 lakh
+Mumbai,2013,Maruti Ertiga VXI,"88,355 km",3rd owner,Manual,Petrol,Kandivali West Mumbai Maharashtra,₹3.62 lakh
+Mumbai,2013,Maruti Ertiga ZDI,"75,849 km",1st owner,Manual,Diesel,Malad West Mumbai Maharashtra,₹6.26 lakh
+Mumbai,2013,Maruti Ertiga VDI,"1,40,787 km",1st owner,Manual,Diesel,Thane West Thane Maharashtra,₹4.89 lakh
+Mumbai,2014,Maruti Ertiga VXI CNG,"91,522 km",3rd owner,Manual,CNG,"Regency Anantam, Dombivli East",₹4.36 lakh
+Mumbai,2014,Maruti Ertiga VXI CNG,"1,23,709 km",2nd owner,Manual,Petrol,Borivali East Mumbai Maharashtra,₹5.13 lakh
+Mumbai,2015,Maruti Ertiga VXI CNG,"50,571 km",2nd owner,Manual,Petrol,Borivali East Mumbai,₹5.8 lakh
+Mumbai,2015,Maruti Ertiga ZXI,"55,629 km",1st owner,Manual,Petrol,Thakur Village Kandivali E Mumbai,₹5.17 lakh
+Mumbai,2015,Maruti Ertiga VXI CNG,"32,271 km",3rd owner,Manual,Petrol,Dombivli East Dombivli Maharashtra,₹5.11 lakh
+Mumbai,2015,Maruti Ertiga VXI CNG,"1,33,329 km",2nd owner,Manual,Petrol,Dattanagar Ambernath Maharashtra,₹6.26 lakh
+Mumbai,2015,Maruti Ertiga VXI CNG,"60,021 km",1st owner,Manual,CNG,"Goregaon, Mumbai",₹6.23 lakh
+Mumbai,2015,Maruti Ertiga VDI SHVS,"96,338 km",2nd owner,Manual,Diesel,Bandra East Mumbai,₹6.4 lakh
+Mumbai,2015,Maruti Ertiga LXI CNG,"1,20,006 km",4th owner,Manual,Petrol,Thane West Thane,₹3.98 lakh
+Mumbai,2015,Maruti Ertiga VXI CNG,"95,929 km",2nd owner,Manual,Petrol,Thane West Thane,₹5.42 lakh
+Mumbai,2015,Maruti Ertiga VXI,"29,762 km",1st owner,Manual,Petrol,Katrap Badlapur Maharashtra,₹5.14 lakh
+Mumbai,2015,Maruti Ertiga VXI CNG,"41,659 km",1st owner,Manual,CNG,"Korum Mall, Thane West",₹6.1 lakh
+Mumbai,2015,Maruti Ertiga VXI CNG,"93,816 km",1st owner,Manual,Petrol,Santacruz East Mumbai Maharashtra,₹5.79 lakh
+Mumbai,2016,Maruti Ertiga VXI AT,"72,650 km",3rd owner,Automatic,Petrol,Bhayandar East Mira Bhayandar Maharashtra,₹5.14 lakh
+Mumbai,2017,Maruti Ertiga VXI CNG,"1,03,888 km",1st owner,Manual,Petrol,Mulund West Mumbai Maharashtra,₹6.67 lakh
+Mumbai,2017,Maruti Ertiga VXI CNG,"1,01,133 km",3rd owner,Manual,Petrol,Virar East Virar Maharashtra,₹6 lakh
+Mumbai,2017,Maruti Ertiga ZXI,"40,819 km",1st owner,Manual,Petrol,"Goregaon, Mumbai",₹6.75 lakh
+Mumbai,2018,Maruti Ertiga ZXI+,"30,925 km",2nd owner,Manual,Petrol,Katrap Badlapur,₹8.5 lakh
+Mumbai,2018,Maruti Ertiga ZXI+,"83,539 km",2nd owner,Manual,Petrol,Dahisar West Mumbai Maharashtra,₹5.5 lakh
+Mumbai,2019,Maruti Ertiga ZDI+ 1.5,"36,345 km",3rd owner,Manual,Diesel,Gauripada Kalyan Maharashtra,₹9.12 lakh
+Mumbai,2019,Maruti Ertiga VXI SHVS,"47,012 km",1st owner,Manual,Petrol,Mumbra Thane,₹7.8 lakh
+Mumbai,2020,Maruti Ertiga VXI CNG,"51,971 km",2nd owner,Manual,Petrol,Nandivali Gaon Kalyan,₹8.87 lakh
+Mumbai,2020,Maruti Ertiga VXI CNG,"1,01,022 km",1st owner,Manual,Petrol,CBD Belapur Navi Mumbai Maharashtra,₹9.25 lakh
+Mumbai,2021,Maruti Ertiga VXI SHVS,"37,217 km",1st owner,Manual,Petrol,Nerul Navi Mumbai Maharashtra,₹8.33 lakh
+Mumbai,2021,Maruti Ertiga VXI CNG,"53,115 km",1st owner,Manual,CNG,"Korum Mall, Thane West",₹9.46 lakh
+Mumbai,2023,Maruti FRONX DELTA PLUS 1.0 TURBO MT,"31,826 km",1st owner,Manual,Petrol,Diva Thane Maharashtra,₹7.84 lakh
+Mumbai,2024,Maruti FRONX ZETA 1.0L TURBO 6 AT,"12,662 km",1st owner,Automatic,Petrol,"Mulund West, Mumbai",₹10.16 lakh
+Mumbai,2023,Maruti Grand Vitara SIGMA SMART HYBRID,"17,484 km",1st owner,Manual,Petrol,"Korum Mall, Thane West",₹10 lakh
+Mumbai,2017,Maruti IGNIS ZETA 1.2 AMT,"52,426 km",2nd owner,Automatic,Petrol,Andheri East Mumbai Maharashtra,₹3.87 lakh
+Mumbai,2017,Maruti IGNIS ZETA 1.2 AMT,"47,413 km",2nd owner,Automatic,Petrol,Mira Road East Mira Bhayandar,₹3.85 lakh
+Mumbai,2017,Maruti IGNIS ZETA 1.2 AMT,"1,09,263 km",2nd owner,Automatic,Petrol,Powai Mumbai,₹3.42 lakh
+Mumbai,2018,Maruti IGNIS DELTA 1.2,"78,389 km",1st owner,Manual,Petrol,Vashi Navi Mumbai Maharashtra,₹3.67 lakh
+Mumbai,2019,Maruti IGNIS ZETA 1.2 AMT,"4,894 km",1st owner,Automatic,Petrol,Seawood,₹4.93 lakh
+Mumbai,2021,Maruti IGNIS ALPHA 1.2 AMT,"16,360 km",1st owner,Automatic,Petrol,"Korum Mall, Thane West",₹5.46 lakh
+Mumbai,2020,Maruti New Wagon-R LXI CNG 1.0,"92,474 km",2nd owner,Manual,Petrol,Panvel Navi Mumbai,₹4.5 lakh
+Mumbai,2020,Maruti New Wagon-R VXI (O) 1.0 AMT,"22,475 km",1st owner,Automatic,Petrol,Seawood,₹4.85 lakh
+Mumbai,2023,Maruti New Wagon-R VXI CNG 1.0,"25,547 km",1st owner,Manual,Petrol,Mulund West Mumbai Maharashtra,₹5.49 lakh
+Mumbai,2010,Maruti Ritz VXI,"84,135 km",3rd owner,Manual,Petrol,Dadar West Mumbai,₹0.8 lakh
+Mumbai,2010,Maruti Ritz ZXI,1 km,3rd owner,Manual,Petrol,Vashi Navi Mumbai,₹1.12 lakh
+Mumbai,2012,Maruti Ritz ZXI,"19,309 km",1st owner,Manual,Petrol,Nerul Navi Mumbai,₹1.88 lakh
+Mumbai,2016,Maruti Ritz LDI,"1,80,137 km",2nd owner,Manual,Diesel,Kandivali West Mumbai,₹2.2 lakh
+Mumbai,2017,Maruti S Cross ZETA 1.3,"1,05,701 km",1st owner,Manual,Diesel,"Goregaon, Mumbai",₹5.8 lakh
+Mumbai,2018,Maruti S Cross ZETA 1.3,"57,810 km",2nd owner,Manual,Diesel,Rameshwadi Badlapur Maharashtra,₹6.03 lakh
+Mumbai,2019,Maruti S PRESSO VXI AMT,"60,773 km",1st owner,Automatic,Petrol,"Regency Anantam, Dombivli East",₹3.15 lakh
+Mumbai,2020,Maruti S PRESSO VXI (O) CNG,"92,258 km",3rd owner,Manual,Petrol,Bhayandar West Mira Bhayandar Maharashtra,₹3 lakh
+Mumbai,2020,Maruti S PRESSO VXI+,"23,505 km",1st owner,Manual,Petrol,Seawood,₹3.45 lakh
+Mumbai,2021,Maruti S PRESSO VXI,"25,910 km",1st owner,Manual,Petrol,"Regency Anantam, Dombivli East",₹3.64 lakh
+Mumbai,2010,Maruti Swift VXI,"73,855 km",1st owner,Manual,Petrol,Borivali West Mumbai Maharashtra,₹1.41 lakh
+Mumbai,2011,Maruti Swift VXI,"93,900 km",1st owner,Manual,Petrol,Malad West Mumbai Maharashtra,₹1.7 lakh
+Mumbai,2011,Maruti Swift VXI,"81,312 km",1st owner,Manual,Petrol,CBD Belapur Navi Mumbai Maharashtra,₹2.05 lakh
+Mumbai,2012,Maruti Swift VXI,"73,136 km",1st owner,Manual,Petrol,Thakur Village Kandivali E Mumbai,₹2.43 lakh
+Mumbai,2012,Maruti Swift ZXI,3 km,1st owner,Manual,Petrol,Panvel Navi Mumbai Maharashtra,₹2 lakh
+Mumbai,2012,Maruti Swift VXI,"50,833 km",2nd owner,Manual,Petrol,Wadala Mumbai Maharashtra,₹2.48 lakh
+Mumbai,2012,Maruti Swift VDI,"31,635 km",1st owner,Manual,Diesel,"Goregaon, Mumbai",₹3.06 lakh
+Mumbai,2013,Maruti Swift VDI,"1,34,080 km",1st owner,Manual,Diesel,Parel Mumbai Maharashtra,₹3.16 lakh
+Mumbai,2013,Maruti Swift ZXI,"58,129 km",1st owner,Manual,Petrol,Goregaon West Mumbai Maharashtra,₹3.1 lakh
+Mumbai,2014,Maruti Swift ZXI,"36,220 km",1st owner,Manual,Petrol,"Regency Anantam, Dombivli East",₹3.62 lakh
+Mumbai,2014,Maruti Swift VXI,"37,958 km",1st owner,Manual,Petrol,Borivali West Mumbai Maharashtra,₹2.98 lakh
+Mumbai,2015,Maruti Swift VDI,"31,922 km",1st owner,Manual,Diesel,Sewri Mumbai Maharashtra,₹3.15 lakh
+Mumbai,2017,Maruti Swift VXI,"65,365 km",1st owner,Manual,Petrol,"Korum Mall, Thane West",₹4.36 lakh
+Mumbai,2018,Maruti Swift ZXI PLUS,"61,357 km",1st owner,Manual,Petrol,"Mulund West, Mumbai",₹5.06 lakh
+Mumbai,2022,Maruti Swift ZXI PLUS AMT,"53,022 km",1st owner,Automatic,Petrol,"Mulund West, Mumbai",₹6.37 lakh
+Mumbai,2022,Maruti Swift LXI,"80,839 km",1st owner,Manual,Petrol,Kandivali East Mumbai Maharashtra,₹4.79 lakh
+Mumbai,2023,Maruti Swift ZXI,"5,850 km",1st owner,Manual,Petrol,Kalyan East Kalyan Maharashtra,₹6.88 lakh
+Mumbai,2010,Maruti Swift Dzire VXI,"77,729 km",1st owner,Manual,Petrol,Ghansoli Navi Mumbai Maharashtra,₹1.2 lakh
+Mumbai,2010,Maruti Swift Dzire VXI,"96,831 km",1st owner,Manual,Petrol,Uran Taluka Raigad Maharashtra,₹1.69 lakh
+Mumbai,2010,Maruti Swift Dzire VDI,"44,237 km",1st owner,Manual,Diesel,Kharghar Navi Mumbai Maharashtra,₹2.07 lakh
+Mumbai,2010,Maruti Swift Dzire VXI,"1,47,419 km",1st owner,Manual,Petrol,Borivali West Mumbai Maharashtra,₹1.23 lakh
+Mumbai,2010,Maruti Swift Dzire VXI,"1,24,343 km",3rd owner,Manual,Petrol,Panvel Navi Mumbai Maharashtra,₹1.22 lakh
+Mumbai,2010,Maruti Swift Dzire VDI,"1,30,695 km",2nd owner,Manual,Diesel,Rameshwadi Badlapur,₹2.25 lakh
+Mumbai,2010,Maruti Swift Dzire LXI,"1,25,009 km",4th owner,Manual,Petrol,Bolinj Virar West Virar,₹1.4 lakh
+Mumbai,2010,Maruti Swift Dzire VXI,"39,843 km",1st owner,Manual,Petrol,Mulund East Mumbai,₹2.06 lakh
+Mumbai,2011,Maruti Swift Dzire VXI,"1,24,536 km",2nd owner,Manual,Petrol,Virar East Virar Maharashtra,₹1.7 lakh
+Mumbai,2011,Maruti Swift Dzire LXI,"89,148 km",3rd owner,Manual,Petrol,Bhandup East Mumbai Maharashtra,₹1.2 lakh
+Mumbai,2011,Maruti Swift Dzire VXI,"52,908 km",1st owner,Manual,Petrol,Andheri West Mumbai Maharashtra,₹2.28 lakh
+Mumbai,2011,Maruti Swift Dzire VXI,"59,728 km",2nd owner,Manual,Petrol,Kandivali East Mumbai,₹1.64 lakh
+Mumbai,2011,Maruti Swift Dzire ZXI,"1,14,063 km",1st owner,Manual,Petrol,Vashi Navi Mumbai,₹2.71 lakh
+Mumbai,2012,Maruti Swift Dzire VDI,"1,23,913 km",1st owner,Manual,Diesel,Thakur Village Kandivali E Mumbai,₹3.5 lakh
+Mumbai,2012,Maruti Swift Dzire ZDI,"1,15,344 km",4th owner,Manual,Diesel,Tularam Pilibhit,₹1.99 lakh
+Mumbai,2012,Maruti Swift Dzire LDI,"1,50,589 km",3rd owner,Manual,Diesel,Parakkunnam Palakkad,₹2.53 lakh
+Mumbai,2012,Maruti Swift Dzire ZDI,"1,55,903 km",1st owner,Manual,Diesel,Andheri West Mumbai Maharashtra,₹3.28 lakh
+Mumbai,2013,Maruti Swift Dzire VXI,"97,062 km",1st owner,Manual,Petrol,Kharghar Navi Mumbai Maharashtra,₹3.67 lakh
+Mumbai,2013,Maruti Swift Dzire VXI,"29,000 km",1st owner,Manual,Petrol,Virar West Vasai-Virar,₹3.6 lakh
+Mumbai,2013,Maruti Swift Dzire VXI,"42,362 km",2nd owner,Manual,Petrol,Mulund West Mumbai Maharashtra,₹3.19 lakh
+Mumbai,2013,Maruti Swift Dzire VXI AT,"56,604 km",1st owner,Automatic,Petrol,Seawood,₹3.06 lakh
+Mumbai,2013,Maruti Swift Dzire VXI,"71,565 km",2nd owner,Manual,Petrol,Kopar Khairane Navi Mumbai Maharashtra,₹2.76 lakh
+Mumbai,2014,Maruti Swift Dzire VXI,"1,01,924 km",1st owner,Manual,Petrol,Majiwada Thane Maharashtra,₹3.66 lakh
+Mumbai,2014,Maruti Swift Dzire VXI,"39,689 km",2nd owner,Manual,Petrol,"Goregaon, Mumbai",₹3.52 lakh
+Mumbai,2014,Maruti Swift Dzire VDI,"1,73,347 km",3rd owner,Manual,Diesel,Taloja Navi Mumbai Maharashtra,₹3.62 lakh
+Mumbai,2014,Maruti Swift Dzire VXI,"34,743 km",1st owner,Manual,Petrol,"Korum Mall, Thane West",₹3.75 lakh
+Mumbai,2015,Maruti Swift Dzire VDI,"38,731 km",1st owner,Manual,Diesel,Rathore Nagar Udhampur,₹6.96 lakh
+Mumbai,2015,Maruti Swift Dzire TOUR DIESEL,"1,86,863 km",4th owner,Manual,Diesel,Manjarli Badlapur Maharashtra,₹2.25 lakh
+Mumbai,2015,Maruti Swift Dzire VXI,"21,499 km",1st owner,Manual,Petrol,Dhakate Shahad Shahad Ulhasnagar,₹4.21 lakh
+Mumbai,2015,Maruti Swift Dzire LXI,"1,20,446 km",2nd owner,Manual,Petrol,Dombivli East Mumbai Maharashtra,₹4.15 lakh
+Mumbai,2016,Maruti Swift Dzire LXI,"98,697 km",1st owner,Manual,Petrol,Thakur Village Kandivali E Mumbai,₹3.85 lakh
+Mumbai,2016,Maruti Swift Dzire TOUR DIESEL,"1,27,956 km",2nd owner,Manual,Diesel,Anushakti Nagar Mumbai,₹2.5 lakh
+Mumbai,2016,Maruti Swift Dzire VXI,"52,249 km",2nd owner,Manual,Petrol,Chembur Mumbai Maharashtra,₹4.08 lakh
+Mumbai,2016,Maruti Swift Dzire TOUR DIESEL,"76,700 km",4th owner,Manual,Diesel,Renuka Nagar Nashik Maharashtra,₹2.08 lakh
+Mumbai,2010,Maruti SX4 ZXI,"1,12,613 km",3rd owner,Manual,Petrol,Dighe Navi Mumbai Maharashtra,₹0.9 lakh
+Mumbai,2010,Maruti SX4 VXI,"1,76,370 km",2nd owner,Manual,Petrol,Mulund West Mumbai Maharashtra,₹0.76 lakh
+Mumbai,2011,Maruti SX4 VXI,"82,888 km",1st owner,Manual,Petrol,Andheri East Mumbai,₹1.28 lakh
+Mumbai,2011,Maruti SX4 ZXI AT,"92,280 km",4th owner,Automatic,Petrol,Agripada Mumbai,₹1.09 lakh
+Mumbai,2011,Maruti SX4 VXI CNG,"1,58,882 km",2nd owner,Manual,Petrol,Mira Road East Mira Bhayandar Maharashtra,₹2.29 lakh
+Mumbai,2013,Maruti SX4 VXI CNG,"1,37,060 km",2nd owner,Manual,Petrol,Dahisar East Mumbai Maharashtra,₹1.5 lakh
+Mumbai,2016,Maruti Vitara Brezza ZDI PLUS,"82,523 km",1st owner,Manual,Diesel,B1/601 Kanchan Pushp Society,₹6.3 lakh
+Mumbai,2016,Maruti Vitara Brezza ZDI,"1,01,468 km",2nd owner,Manual,Diesel,Saki Naka Mumbai,₹5.64 lakh
+Mumbai,2017,Maruti Vitara Brezza VDI (O),"90,297 km",1st owner,Manual,Diesel,Thakur Village Kandivali E Mumbai,₹6.1 lakh
+Mumbai,2018,Maruti Vitara Brezza ZDI PLUS AMT,"41,021 km",1st owner,Automatic,Diesel,"Korum Mall, Thane West",₹7.89 lakh
+Mumbai,2020,Maruti Vitara Brezza ZXI PLUS DUAL TONE,"74,606 km",1st owner,Manual,Petrol,Navi Mumbai Adai Maharashtra,₹6.89 lakh
+Mumbai,2020,Maruti Vitara Brezza ZXI PLUS,"1,01,406 km",1st owner,Manual,Petrol,"Regency Anantam, Dombivli East",₹7 lakh
+Mumbai,2022,Maruti Vitara Brezza VXI,"94,083 km",1st owner,Manual,Petrol,Panvel Navi Mumbai Maharashtra,₹6.51 lakh
+Mumbai,2010,Maruti Wagon R 1.0 VXI,"25,192 km",1st owner,Manual,Petrol,Mumbai Andheri Maharashtra,₹1.24 lakh
+Mumbai,2010,Maruti Wagon R 1.0 VXI,"1,02,163 km",1st owner,Manual,Petrol,Kharghar Navi Mumbai,₹1.49 lakh
+Mumbai,2010,Maruti Wagon R 1.0 VXI,"1,11,406 km",2nd owner,Manual,Petrol,Thane West Thane,₹1.3 lakh
+Mumbai,2011,Maruti Wagon R 1.0 VXI,"22,392 km",2nd owner,Manual,Petrol,Dombivli East Dombivli Maharashtra,₹1.46 lakh
+Mumbai,2011,Maruti Wagon R 1.0 LXI CNG,"1,18,776 km",2nd owner,Manual,Petrol,Padma Nagar Bhiwandi Maharashtra,₹1.41 lakh
+Mumbai,2011,Maruti Wagon R 1.0 VXI,"81,173 km",3rd owner,Manual,Petrol,Naigaon East Bapane,₹1.3 lakh
+Mumbai,2012,Maruti Wagon R 1.0 LXI CNG,"91,188 km",2nd owner,Manual,Petrol,Borivali West Mumbai Maharashtra,₹1.78 lakh
+Mumbai,2012,Maruti Wagon R 1.0 VXI,"55,882 km",1st owner,Manual,CNG,Seawood,₹2.17 lakh
+Mumbai,2012,Maruti Wagon R 1.0 LXI CNG,"1,11,973 km",2nd owner,Manual,Petrol,Kalwa Thane,₹1.85 lakh
+Mumbai,2012,Maruti Wagon R 1.0 LXI CNG,"1,05,382 km",2nd owner,Manual,Petrol,Kulgaon Badlapur Maharashtra,₹1.69 lakh
+Mumbai,2013,Maruti Wagon R 1.0 LXI CNG,"1,44,910 km",1st owner,Manual,Petrol,CBD Belapur Navi Mumbai,₹2.49 lakh
+Mumbai,2013,Maruti Wagon R 1.0 LXI CNG,"1,03,997 km",3rd owner,Manual,Petrol,Shriram Nagar Ulhasnagar,₹2.02 lakh
+Mumbai,2013,Maruti Wagon R 1.0 LXI CNG,"50,252 km",3rd owner,Manual,Petrol,Kurla Mumbai Maharashtra,₹2.4 lakh
+Mumbai,2013,Maruti Wagon R 1.0 VXI,"59,773 km",1st owner,Manual,Petrol,Vile Parle Mumbai,₹2.11 lakh
+Mumbai,2013,Maruti Wagon R 1.0 LXI CNG,"89,252 km",3rd owner,Manual,Petrol,Nalanda Society Mumbai Maharashtra,₹2.25 lakh
+Mumbai,2013,Maruti Wagon R 1.0 LXI CNG,"1,33,062 km",2nd owner,Manual,Petrol,Ghatkopar West Mumbai Maharashtra,₹2.41 lakh
+Mumbai,2013,Maruti Wagon R 1.0 LXI CNG,"1,03,036 km",3rd owner,Manual,Petrol,Kopar Khairane Navi Mumbai Maharashtra,₹2.13 lakh
+Mumbai,2013,Maruti Wagon R 1.0 VXI,"28,415 km",1st owner,Manual,Petrol,Khadakpada Kalyan Maharashtra,₹2.64 lakh
+Mumbai,2013,Maruti Wagon R 1.0 LXI CNG,"1,63,992 km",2nd owner,Manual,Petrol,Malad West Mumbai,₹2 lakh
+Mumbai,2013,Maruti Wagon R 1.0 VXI,"53,413 km",3rd owner,Manual,Petrol,Andheri East Mumbai,₹2.05 lakh
+Mumbai,2013,Maruti Wagon R 1.0 LXI CNG,"88,156 km",1st owner,Manual,Petrol,Borivali West Mumbai Maharashtra,₹2.2 lakh
+Mumbai,2013,Maruti Wagon R 1.0 LXI CNG,"60,908 km",2nd owner,Manual,Petrol,Sion Mumbai Maharashtra,₹1.82 lakh
+Mumbai,2013,Maruti Wagon R 1.0 LXI CNG,"85,807 km",2nd owner,Manual,Petrol,Kaneri Bhiwandi Maharashtra,₹2.19 lakh
+Mumbai,2013,Maruti Wagon R 1.0 VXI,"27,690 km",1st owner,Manual,Petrol,Andheri East Mumbai,₹2.45 lakh
+Mumbai,2013,Maruti Wagon R 1.0 LXI CNG,"1,06,450 km",2nd owner,Manual,Petrol,Kharghar Navi Mumbai Maharashtra,₹2.21 lakh
+Mumbai,2013,Maruti Wagon R 1.0 LXI CNG,"1,13,332 km",2nd owner,Manual,Petrol,Nandivali Gaon Kalyan,₹2.33 lakh
+Mumbai,2014,Maruti Wagon R 1.0 VXI,"26,239 km",1st owner,Manual,Petrol,Thane West Thane,₹2.67 lakh
+Mumbai,2014,Maruti Wagon R 1.0 LXI CNG,"93,065 km",2nd owner,Manual,Petrol,Desale Pada Dombivli,₹2.6 lakh
+Mumbai,2014,Maruti Wagon R 1.0 VXI,"48,542 km",2nd owner,Manual,Petrol,Ambawadi Nalasopara East Nala Sopara,₹2.19 lakh
+Mumbai,2014,Maruti Wagon R 1.0 LXI CNG,"94,930 km",2nd owner,Manual,Petrol,Vashi Navi Mumbai Maharashtra,₹2.42 lakh
+Mumbai,2014,Maruti Wagon R 1.0 LXI CNG,"70,701 km",3rd owner,Manual,CNG,"Korum Mall, Thane West",₹2.39 lakh
+Mumbai,2014,Maruti Wagon R 1.0 LXI CNG,"1,34,141 km",2nd owner,Manual,Petrol,Kurla Mumbai,₹2.26 lakh
+Mumbai,2014,Maruti Wagon R 1.0 LXI CNG LIMITED EDITION,"34,804 km",1st owner,Manual,Petrol,Lodha Thane,₹2.41 lakh
+Mumbai,2014,Maruti Wagon R 1.0 LXI CNG,"1,50,068 km",2nd owner,Manual,Petrol,Mira Road East Mira Bhayandar Maharashtra,₹2.5 lakh
+Mumbai,2014,Maruti Wagon R 1.0 LXI CNG,"45,393 km",2nd owner,Manual,Petrol,Goregaon West Mumbai Maharashtra,₹2.61 lakh
+Mumbai,2015,Maruti Wagon R 1.0 LXI CNG,"1,08,290 km",2nd owner,Manual,Petrol,Turbhe Navi Mumbai,₹2.76 lakh
+Mumbai,2015,Maruti Wagon R 1.0 LXI CNG,"95,553 km",1st owner,Manual,Petrol,Malad West Mumbai Maharashtra,₹2.32 lakh
+Mumbai,2015,Maruti Wagon R 1.0 LXI CNG,"1,20,516 km",3rd owner,Manual,Petrol,Dattanagar Badlapur,₹2.5 lakh
+Mumbai,2015,Maruti Wagon R 1.0 VXI,"56,368 km",4th owner,Manual,Petrol,Oswal Nagar Mumbai,₹2.25 lakh
+Mumbai,2015,Maruti Wagon R 1.0 LXI CNG,"2,71,583 km",1st owner,Manual,Petrol,Sector 17 Kharghar Maharashtra,₹2.5 lakh
+Mumbai,2015,Maruti Wagon R 1.0 LXI CNG,"71,250 km",2nd owner,Manual,Petrol,Taloja Navi Mumbai,₹2.47 lakh
+Mumbai,2015,Maruti Wagon R 1.0 LXI CNG,"52,241 km",3rd owner,Manual,Petrol,पनवेल नवी मुंबई,₹2.82 lakh
+Mumbai,2016,Maruti Wagon R 1.0 LXI CNG,"98,303 km",1st owner,Manual,CNG,"Goregaon, Mumbai",₹2.98 lakh
+Mumbai,2016,Maruti Wagon R 1.0 VXI+ AMT,"60,646 km",3rd owner,Automatic,Petrol,Dombivli East Mumbai Maharashtra,₹2.6 lakh
+Mumbai,2016,Maruti Wagon R 1.0 VXI,"46,949 km",2nd owner,Manual,Petrol,Nerul Navi Mumbai Maharashtra,₹2.96 lakh
+Mumbai,2016,Maruti Wagon R 1.0 VXI,"98,491 km",1st owner,Manual,Petrol,Thane Taluka Thane Maharashtra,₹3.16 lakh
+Mumbai,2016,Maruti Wagon R 1.0 VXI AMT,"32,414 km",1st owner,Automatic,Petrol,Goregaon Mumbai,₹3.2 lakh
+Mumbai,2016,Maruti Wagon R 1.0 LXI CNG,"1,08,683 km",2nd owner,Manual,Petrol,Panvel Nere,₹2.5 lakh
+Mumbai,2016,Maruti Wagon R 1.0 VXI AMT,"34,826 km",1st owner,Automatic,Petrol,"Mulund West, Mumbai",₹2.96 lakh
+Mumbai,2017,Maruti Wagon R 1.0 LXI CNG,"90,612 km",4th owner,Manual,Petrol,Gol Maidan Area Ulhasnagar Maharashtra,₹2.2 lakh
+Mumbai,2017,Maruti Wagon R 1.0 LXI CNG,"45,322 km",3rd owner,Manual,Petrol,Borivali West Mumbai Maharashtra,₹2.89 lakh
+Mumbai,2017,Maruti Wagon R 1.0 VXI ABS,"35,680 km",1st owner,Manual,Petrol,Dombivli East Dombivli,₹3.15 lakh
+Mumbai,2017,Maruti Wagon R 1.0 VXI,"73,144 km",2nd owner,Manual,Petrol,Mumbai Mumbai City Maharashtra,₹3.14 lakh
+Mumbai,2017,Maruti Wagon R 1.0 VXI,"13,415 km",1st owner,Manual,Petrol,Dombivli East Dombivli Maharashtra,₹3.45 lakh
+Mumbai,2017,Maruti Wagon R 1.0 LXI CNG,"82,508 km",1st owner,Manual,CNG,"Regency Anantam, Dombivli East",₹3.4 lakh
+Mumbai,2017,Maruti Wagon R 1.0 LXI CNG,"78,325 km",2nd owner,Manual,Petrol,Ghodbunder Mira Bhayandar Maharashtra,₹2.5 lakh
+Mumbai,2017,Maruti Wagon R 1.0 LXI CNG,"63,688 km",1st owner,Manual,Petrol,Chembur Mumbai Maharashtra,₹3.1 lakh
+Mumbai,2017,Maruti Wagon R 1.0 LXI CNG (O),"1,20,897 km",2nd owner,Manual,Petrol,Dombivli East Dombivli Maharashtra,₹3.19 lakh
+Mumbai,2018,Maruti Wagon R 1.0 VXI,"33,955 km",2nd owner,Manual,Petrol,Goregaon Mumbai,₹3.25 lakh
+Mumbai,2018,Maruti Wagon R 1.0 LXI CNG,"1,31,171 km",2nd owner,Manual,Petrol,Panvel Navi Mumbai,₹3.25 lakh
+Mumbai,2018,Maruti Wagon R 1.0 VXI,"70,695 km",1st owner,Manual,Petrol,Kalwa Thane Maharashtra,₹3.25 lakh
+Mumbai,2010,Maruti Wagon R LXI MINOR,390 km,1st owner,Manual,Petrol,Borivali West Mumbai Maharashtra,₹1.39 lakh
+Mumbai,2019,Maruti XL6 ALPHA AT,"89,226 km",1st owner,Automatic,Petrol,Vidyavihar Mumbai Maharashtra,₹8.69 lakh
+Mumbai,2022,Maruti XL6 ZETA AT,"26,200 km",1st owner,Automatic,Petrol,"Korum Mall, Thane West",₹10.11 lakh
+Mumbai,2022,Maruti XL6 ZETA AT,"63,025 km",1st owner,Automatic,Petrol,"Goregaon, Mumbai",₹9.75 lakh
+Mumbai,2010,Maruti Zen Estilo VXI,"77,509 km",4th owner,Manual,Petrol,Mira Road East Mira Bhayandar Maharashtra,₹0.77 lakh
+Mumbai,2010,Maruti Zen Estilo LXI,"81,570 km",3rd owner,Manual,Petrol,Thane West Thane Maharashtra,₹1.1 lakh
+Mumbai,2013,Maruti Zen Estilo LXI CNG,"1,18,690 km",1st owner,Manual,Petrol,Babasai Nagar Ulhasnagar,₹2 lakh
+Mumbai,2013,Maruti Zen Estilo LXI CNG,"84,678 km",2nd owner,Manual,Petrol,Borivali West Mumbai Maharashtra,₹1.67 lakh
+Bengaluru,2012,Maruti A Star VXI (ABS) AT,"91,051 km",4th owner,Automatic,Petrol,Jayanagar Bengaluru,₹1.75 lakh
+Bengaluru,2012,Maruti A Star VXI (ABS) AT,"39,528 km",2nd owner,Automatic,Petrol,Krishnarajapuram Bengaluru,₹2.67 lakh
+Bengaluru,2012,Maruti A Star VXI,"65,841 km",1st owner,Manual,Petrol,Konena Agrahara Bengaluru Karnataka,₹2 lakh
+Bengaluru,2011,Maruti Alto LXI,"63,636 km",4th owner,Manual,Petrol,Bengaluru Kommaghatta Karnataka,₹1.45 lakh
+Bengaluru,2012,Maruti Alto LXI,"37,740 km",2nd owner,Manual,Petrol,Munnekollal Bengaluru,₹1.8 lakh
+Bengaluru,2020,Maruti Alto VXI,"63,233 km",1st owner,Manual,Petrol,Kaval Bairasandra Bengaluru,₹3.86 lakh
+Bengaluru,2021,Maruti Alto VXI PLUS,"38,715 km",2nd owner,Manual,Petrol,Gulimangala Bengaluru Karnataka,₹5.14 lakh
+Bengaluru,2012,Maruti Alto 800 LXI,"61,973 km",1st owner,Manual,Petrol,Cox Town Bengaluru Karnataka,₹2.6 lakh
+Bengaluru,2014,Maruti Alto 800 LXI,"1,23,610 km",2nd owner,Manual,Petrol,Gulimangala Bengaluru Karnataka,₹2.13 lakh
+Bengaluru,2015,Maruti Alto 800 LXI,"54,220 km",3rd owner,Manual,Petrol,Horamavu Bengaluru,₹2.22 lakh
+Bengaluru,2016,Maruti Alto 800 LXI,"47,592 km",2nd owner,Manual,Petrol,Golden Nest Residential Layout Bengaluru Karnataka,₹2.7 lakh
+Bengaluru,2016,Maruti Alto 800 LXI,"31,539 km",1st owner,Manual,Petrol,Gandhi Nagar,₹2.72 lakh
+Bengaluru,2016,Maruti Alto 800 VXI,"1,25,326 km",1st owner,Manual,Petrol,Lal Bahadur Shastri Nagar Bengaluru Karnataka,₹2.84 lakh
+Bengaluru,2016,Maruti Alto 800 LXI,"77,168 km",1st owner,Manual,Petrol,Krishnarajapura Bengaluru Karnataka,₹3.05 lakh
+Bengaluru,2016,Maruti Alto 800 LXI,"19,105 km",1st owner,Manual,Petrol,"GT World Mall, Bengaluru",₹2.72 lakh
+Bengaluru,2017,Maruti Alto 800 LXI,"20,084 km",1st owner,Manual,Petrol,Banaswadi fire station opposite,₹3.68 lakh
+Bengaluru,2017,Maruti Alto 800 LXI,"35,180 km",1st owner,Manual,Petrol,Bengaluru Ullal Karnataka,₹3.5 lakh
+Bengaluru,2018,Maruti Alto 800 LXI,"32,072 km",3rd owner,Manual,Petrol,Bengaluru Nadagowdagollahalli Karnataka,₹2.72 lakh
+Bengaluru,2018,Maruti Alto 800 LXI,"55,000 km",1st owner,Manual,Petrol,Kalena Agrahara Bengaluru Karnataka,₹2.2 lakh
+Bengaluru,2010,Maruti Alto K10 VXI,"35,403 km",2nd owner,Manual,Petrol,Basavanagara Bengaluru Karnataka,₹2 lakh
+Bengaluru,2010,Maruti Alto K10 VXI,"63,912 km",4th owner,Manual,Petrol,Ramamurthy Nagar Bengaluru Karnataka,₹1.67 lakh
+Bengaluru,2011,Maruti Alto K10 VXI,"70,125 km",2nd owner,Manual,Petrol,Bengaluru Sidedahalli Karnataka,₹2.5 lakh
+Bengaluru,2011,Maruti Alto K10 VXI,"2,00,531 km",1st owner,Manual,Petrol,Electronic City Bengaluru,₹2.26 lakh
+Bengaluru,2012,Maruti Alto K10 LXI,"1,00,215 km",3rd owner,Manual,Petrol,Binnipete Bengaluru,₹1.7 lakh
+Bengaluru,2012,Maruti Alto K10 VXI,"44,531 km",4th owner,Manual,Petrol,Electronic City Bengaluru Karnataka,₹1.8 lakh
+Bengaluru,2013,Maruti Alto K10 VXI,"59,744 km",1st owner,Manual,Petrol,D Group Employees Layout Bengaluru,₹3.19 lakh
+Bengaluru,2013,Maruti Alto K10 LXI,"97,855 km",4th owner,Manual,Petrol,Roysingh lay out Hoskote,₹1.7 lakh
+Bengaluru,2013,Maruti Alto K10 VXI,"86,838 km",1st owner,Manual,Petrol,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",₹2.31 lakh
+Bengaluru,2013,Maruti Alto K10 VXI,"70,586 km",1st owner,Manual,Petrol,Krishnarajapuram Bengaluru,₹3.19 lakh
+Bengaluru,2014,Maruti Alto K10 VXI,"37,175 km",2nd owner,Manual,Petrol,Gandhi Nagar,₹2.51 lakh
+Bengaluru,2015,Maruti Alto K10 VXI,"56,204 km",2nd owner,Manual,Petrol,Koramangala Bengaluru Karnataka,₹2.71 lakh
+Bengaluru,2016,Maruti Alto K10 VXI,"1,13,711 km",3rd owner,Manual,Petrol,Nexus Whitefield,₹2.42 lakh
+Bengaluru,2016,Maruti Alto K10 VXI,"35,674 km",2nd owner,Manual,Petrol,Jayamahal Bengaluru,₹3.12 lakh
+Bengaluru,2017,Maruti Alto K10 VXI (O) AMT,"67,073 km",1st owner,Automatic,Petrol,"Bellahalli, Bengaluru",₹3.12 lakh
+Bengaluru,2019,Maruti Alto K10 VXI,"39,900 km",1st owner,Manual,Petrol,Mahadevapura Bengaluru Karnataka,₹3.55 lakh
+Bengaluru,2023,Maruti Alto K10 LXI,"25,595 km",1st owner,Manual,Petrol,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore",₹4.12 lakh
+Bengaluru,2015,Maruti Baleno ZETA PETROL 1.2,"37,520 km",2nd owner,Manual,Petrol,Gandhi Nagar,₹5.46 lakh
+Bengaluru,2016,Maruti Baleno DELTA DIESEL 1.3,"1,02,686 km",2nd owner,Manual,Diesel,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore",₹5.03 lakh
+Bengaluru,2016,Maruti Baleno ZETA CVT PETROL 1.2,"49,123 km",1st owner,Automatic,Petrol,Banashankari Bengaluru Karnataka,₹5.9 lakh
+Bengaluru,2016,Maruti Baleno DELTA PETROL 1.2,"67,007 km",1st owner,Manual,Petrol,Electronic City Bengaluru Karnataka,₹5.54 lakh
+Bengaluru,2016,Maruti Baleno ALPHA PETROL 1.2,"32,561 km",1st owner,Manual,Petrol,Nexus Whitefield,₹5.59 lakh
+Bengaluru,2016,Maruti Baleno ZETA PETROL 1.2,"54,616 km",1st owner,Manual,Petrol,Cox Town Bengaluru Karnataka,₹4.99 lakh
+Bengaluru,2016,Maruti Baleno ALPHA DIESEL 1.3,"82,588 km",2nd owner,Manual,Diesel,HBR Layout Bengaluru Karnataka,₹5.43 lakh
+Bengaluru,2016,Maruti Baleno DELTA PETROL 1.2,"37,590 km",1st owner,Manual,Petrol,Singasandra Bengaluru Karnataka,₹5.59 lakh
+Bengaluru,2017,Maruti Baleno ALPHA PETROL 1.2,"33,615 km",1st owner,Manual,Petrol,Kannuru Bengaluru,₹6.3 lakh
+Bengaluru,2017,Maruti Baleno ZETA PETROL 1.2,"63,786 km",1st owner,Manual,Petrol,Sector 32 Gurugram,₹5.25 lakh
+Bengaluru,2017,Maruti Baleno DELTA PETROL 1.2,"54,518 km",1st owner,Manual,Petrol,Kodigehalli Bengaluru Karnataka,₹5.42 lakh
+Bengaluru,2017,Maruti Baleno ZETA CVT PETROL 1.2,"1,14,619 km",2nd owner,Automatic,Petrol,"GT World Mall, Bengaluru",₹4.67 lakh
+Bengaluru,2017,Maruti Baleno ALPHA PETROL 1.2,"23,214 km",1st owner,Manual,Petrol,Banaswadi Bengaluru Karnataka,₹4.34 lakh
+Bengaluru,2018,Maruti Baleno ALPHA DIESEL 1.3,"1,59,791 km",1st owner,Manual,Diesel,Khajisonnanahalli Bengaluru Karnataka,₹5.84 lakh
+Bengaluru,2018,Maruti Baleno DELTA PETROL 1.2,"13,184 km",1st owner,Manual,Petrol,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",₹6.13 lakh
+Bengaluru,2018,Maruti Baleno DELTA PETROL 1.2,"61,296 km",1st owner,Manual,Petrol,"Vaishnavi Sapphire Centre, Yeswanthpur",₹5.67 lakh
+Bengaluru,2018,Maruti Baleno DELTA PETROL 1.2,"21,068 km",1st owner,Manual,Petrol,"Bellahalli, Bengaluru",₹5.93 lakh
+Bengaluru,2018,Maruti Baleno DELTA PETROL 1.2,"36,507 km",1st owner,Manual,Petrol,Suryanagar Bengaluru,₹4.39 lakh
+Bengaluru,2019,Maruti Baleno ALPHA PETROL 1.2,"74,563 km",2nd owner,Manual,Petrol,Naagarabhaavi Bengaluru,₹6.89 lakh
+Bengaluru,2019,Maruti Baleno DELTA PETROL 1.2,"50,353 km",1st owner,Manual,Petrol,Bengaluru Ganakal Village Karnataka,₹5.42 lakh
+Bengaluru,2020,Maruti Baleno DELTA PETROL 1.2,"59,506 km",3rd owner,Manual,Petrol,Bengaluru Kithiganur Karnataka,₹4.22 lakh
+Bengaluru,2020,Maruti Baleno ZETA PETROL 1.2,"32,444 km",1st owner,Manual,Petrol,"GT World Mall, Bengaluru",₹7.07 lakh
+Bengaluru,2021,Maruti Baleno ZETA PETROL 1.2,"38,372 km",2nd owner,Manual,Petrol,Lingarajapuram Bengaluru Karnataka,₹5.64 lakh
+Bengaluru,2021,Maruti Baleno SIGMA PETROL 1.2,"82,939 km",1st owner,Manual,Petrol,Thirupalya Bommasandra Karnataka,₹3.7 lakh
+Bengaluru,2022,Maruti Baleno DELTA PETROL 1.2,"35,504 km",2nd owner,Manual,Petrol,Akshayanagar Begur Bengaluru,₹6.84 lakh
+Bengaluru,2022,Maruti Baleno DELTA PETROL 1.2,"21,173 km",1st owner,Manual,Petrol,Nexus Whitefield,₹6.89 lakh
+Bengaluru,2022,Maruti Baleno ZETA PETROL 1.2,"25,103 km",1st owner,Manual,Petrol,Binnipete Bengaluru Karnataka,₹8.37 lakh
+Bengaluru,2022,Maruti Baleno ZETA PETROL 1.2,"40,360 km",2nd owner,Manual,Petrol,Hebbal Bengaluru Karnataka,₹7 lakh
+Bengaluru,2023,Maruti Baleno ZETA 1.2 AGS,"7,150 km",1st owner,Automatic,Petrol,BTM Layout Bengaluru Karnataka,₹8.42 lakh
+Bengaluru,2023,Maruti Baleno ZETA 1.2 AGS,"7,558 km",1st owner,Automatic,Petrol,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",₹7.97 lakh
+Bengaluru,2024,Maruti Baleno ZETA 1.2 AGS,"1,222 km",1st owner,Automatic,Petrol,Bengaluru Kothnur Karnataka,₹8.8 lakh
+Bengaluru,2024,Maruti BREZZA LXI,"7,888 km",1st owner,Manual,Petrol,Wilson Garden Bengaluru Karnataka,₹8.9 lakh
+Bengaluru,2024,Maruti BREZZA ZXI + SMART HYBRID DUAL TONE,"9,742 km",1st owner,Manual,Petrol,Gandhi Nagar,₹11.05 lakh
+Bengaluru,2014,Maruti Celerio ZXI,"1,47,171 km",1st owner,Manual,Petrol,Bedarahalli Bengaluru Karnataka,₹2.65 lakh
+Bengaluru,2014,Maruti Celerio VXI AMT,"31,500 km",3rd owner,Automatic,Petrol,Agrahara Badavane Bengaluru Karnataka,₹3 lakh
+Bengaluru,2014,Maruti Celerio LXI,"47,848 km",2nd owner,Manual,Petrol,Chikkabanavara Bengaluru,₹2.79 lakh
+Bengaluru,2014,Maruti Celerio LXI,"80,001 km",1st owner,Manual,Petrol,Bangalore East Bengaluru Urban Karnataka,₹2.63 lakh
+Bengaluru,2015,Maruti Celerio VXI AMT,"54,356 km",2nd owner,Automatic,Petrol,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore",₹3.79 lakh
+Bengaluru,2015,Maruti Celerio VXI AMT,"69,529 km",2nd owner,Automatic,Petrol,Yelahanka New Town Bengaluru Karnataka,₹3.66 lakh
+Bengaluru,2015,Maruti Celerio VXI AMT,"37,506 km",1st owner,Automatic,Petrol,Gandhi Nagar,₹3.8 lakh
+Bengaluru,2015,Maruti Celerio ZXI AMT,"97,911 km",1st owner,Automatic,Petrol,Hulimavu Bengaluru,₹4 lakh
+Bengaluru,2015,Maruti Celerio VXI,"55,956 km",1st owner,Manual,Petrol,Richards Town Bengaluru,₹3.25 lakh
+Bengaluru,2015,Maruti Celerio ZXI,"1,02,320 km",2nd owner,Manual,Petrol,Electronic City Andapura,₹3.22 lakh
+Bengaluru,2016,Maruti Celerio VXI,"91,289 km",1st owner,Manual,Petrol,"Bellahalli, Bengaluru",₹3.11 lakh
+Bengaluru,2016,Maruti Celerio ZXI AMT (O),"38,753 km",1st owner,Automatic,Petrol,HSR Layout Bengaluru Karnataka,₹4 lakh
+Bengaluru,2016,Maruti Celerio VXI AMT,"56,661 km",1st owner,Automatic,Petrol,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",₹3.7 lakh
+Bengaluru,2016,Maruti Celerio ZXI,"42,935 km",2nd owner,Manual,Petrol,Jayanagar Bengaluru Karnataka,₹3.7 lakh
+Bengaluru,2017,Maruti Celerio ZXI,"1,06,671 km",1st owner,Manual,Petrol,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",₹3.93 lakh
+Bengaluru,2017,Maruti Celerio ZXI AMT,"69,791 km",1st owner,Automatic,Petrol,sompura gate Sarjapur road Kada Agrahara Karnataka,₹4 lakh
+Bengaluru,2017,Maruti Celerio ZXI AMT,"17,517 km",1st owner,Automatic,Petrol,Nexus Whitefield,₹4.47 lakh
+Bengaluru,2017,Maruti Celerio VXI,"32,073 km",1st owner,Manual,Petrol,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore",₹3.98 lakh
+Bengaluru,2017,Maruti Celerio ZXI AMT (O),"88,188 km",1st owner,Automatic,Petrol,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",₹3.58 lakh
+Bengaluru,2017,Maruti Celerio ZXI AMT,"72,436 km",2nd owner,Automatic,Petrol,"Vaishnavi Sapphire Centre, Yeswanthpur",₹3.69 lakh
+Bengaluru,2017,Maruti Celerio ZXI AMT (O),"1,20,223 km",2nd owner,Automatic,Petrol,Electronic City Bengaluru Karnataka,₹3.5 lakh
+Bengaluru,2017,Maruti Celerio VXI AMT,"85,505 km",1st owner,Automatic,Petrol,"Vaishnavi Sapphire Centre, Yeswanthpur",₹3.7 lakh
+Bengaluru,2019,Maruti Celerio VXI (O),"54,085 km",3rd owner,Manual,Petrol,Maruthi Sevanagar Bengaluru Karnataka,₹4.04 lakh
+Bengaluru,2020,Maruti Celerio VXI,"30,010 km",1st owner,Manual,Petrol,Gandhi Nagar,₹4.43 lakh
+Bengaluru,2021,Maruti Celerio ZXI PLUS,"10,786 km",1st owner,Manual,Petrol,"Bellahalli, Bengaluru",₹5.36 lakh
+Bengaluru,2023,Maruti Celerio ZXI PLUS AGS,"6,354 km",1st owner,Automatic,Petrol,Annapurneshwari Nagar Bengaluru Karnataka,₹7.46 lakh
+Bengaluru,2023,Maruti Celerio ZXI PLUS,"68,500 km",1st owner,Manual,Petrol,Madavara Bengaluru Karnataka,₹6.2 lakh
+Bengaluru,2023,Maruti Celerio ZXI,"20,692 km",2nd owner,Manual,Petrol,Yelahanka New Town Bengaluru Karnataka,₹5.68 lakh
+Bengaluru,2018,Maruti Celerio X VXI,"64,084 km",2nd owner,Manual,Petrol,Krishnarajapura Bengaluru Karnataka,₹3.15 lakh
+Bengaluru,2018,Maruti Celerio X ZXI AMT,"80,857 km",2nd owner,Automatic,Petrol,Bengaluru Varthur Karnataka,₹4.87 lakh
+Bengaluru,2015,Maruti Ciaz VXI,"46,936 km",1st owner,Manual,Petrol,Gunjur Village Bengaluru,₹3.62 lakh
+Bengaluru,2015,Maruti Ciaz ZXI,"52,962 km",1st owner,Manual,Petrol,Sunkalpalya Bengaluru,₹5.49 lakh
+Bengaluru,2015,Maruti Ciaz ZXI,"1,52,469 km",1st owner,Manual,Petrol,Naagarabhaavi Bengaluru Karnataka,₹5.63 lakh
+Bengaluru,2016,Maruti Ciaz ZXI+ AT,"81,133 km",2nd owner,Automatic,Petrol,"Bellahalli, Bengaluru",₹5.03 lakh
+Bengaluru,2017,Maruti Ciaz ALPHA AT 1.4 PETROL,"97,664 km",2nd owner,Automatic,Petrol,Gunjur Bengaluru,₹5.51 lakh
+Bengaluru,2017,Maruti Ciaz ALPHA AT 1.4 PETROL,"55,091 km",1st owner,Automatic,Petrol,Nexus Whitefield,₹6.26 lakh
+Bengaluru,2017,Maruti Ciaz ALPHA AT 1.4 PETROL,"57,808 km",1st owner,Automatic,Petrol,"GT World Mall, Bengaluru",₹6.2 lakh
+Bengaluru,2018,Maruti Ciaz S DIESEL 1.3,"72,311 km",1st owner,Manual,Diesel,Sampangi Rama Nagar Bengaluru Karnataka,₹4.71 lakh
+Bengaluru,2019,Maruti Ciaz DELTA 1.5 SHVS MT PETROL,"39,440 km",2nd owner,Manual,Petrol,Sompura Bengaluru Karnataka,₹5.99 lakh
+Bengaluru,2019,Maruti Ciaz ALPHA 1.5 SHVS PETROL,"42,863 km",3rd owner,Manual,Petrol,Rainbow Garden Layout Nallasandra Karnataka,₹7.18 lakh
+Bengaluru,2017,Maruti Dzire ZXI PLUS AMT,"76,779 km",1st owner,Automatic,Petrol,Basaveshwar Nagar Bengaluru Karnataka,₹5.55 lakh
+Bengaluru,2017,Maruti Dzire ZXI PLUS AMT,"79,000 km",3rd owner,Automatic,Petrol,HSR Layout Bengaluru,₹5.45 lakh
+Bengaluru,2017,Maruti Dzire ZXI,"33,339 km",1st owner,Manual,Petrol,Kalkere Bengaluru Karnataka,₹6.5 lakh
+Bengaluru,2017,Maruti Dzire ZXI,"46,906 km",1st owner,Manual,Petrol,J. P. Nagar Bengaluru Karnataka,₹6.37 lakh
+Bengaluru,2018,Maruti Dzire ZXI PLUS AMT,"65,511 km",2nd owner,Automatic,Petrol,Doddenahalli Bengaluru Karnataka,₹5.2 lakh
+Bengaluru,2018,Maruti Dzire ZXI PLUS,"47,433 km",1st owner,Manual,Petrol,"GT World Mall, Bengaluru",₹5.99 lakh
+Bengaluru,2019,Maruti Dzire VXI,"1,85,602 km",1st owner,Manual,Petrol,Mallathahalli Bengaluru Karnataka,₹5.42 lakh
+Bengaluru,2019,Maruti Dzire ZXI,"39,536 km",1st owner,Manual,Petrol,"Bellahalli, Bengaluru",₹6.1 lakh
+Bengaluru,2020,Maruti Dzire ZXI AMT,"42,154 km",1st owner,Automatic,Petrol,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore",₹5.69 lakh
+Bengaluru,2020,Maruti Dzire VXI,"43,999 km",1st owner,Manual,Petrol,Kalena Agrahara Bengaluru Karnataka,₹6.5 lakh
+Bengaluru,2020,Maruti Dzire VXI,"84,701 km",2nd owner,Manual,Petrol,Nexus Whitefield,₹5.32 lakh
+Bengaluru,2022,Maruti Dzire ZXI AMT,"17,467 km",2nd owner,Automatic,Petrol,MahaLakshmi Layout Bengaluru Karnataka,₹7.58 lakh
+Bengaluru,2022,Maruti Dzire ZXI Plus AMT,"25,546 km",1st owner,Automatic,Petrol,Gandhi Nagar,₹7.16 lakh
+Bengaluru,2023,Maruti Eeco 5 STR AC,"15,058 km",1st owner,Manual,Petrol,Laggere Bengaluru Karnataka,₹5.36 lakh
+Bengaluru,2012,Maruti Ertiga VDI,"1,43,351 km",1st owner,Manual,Diesel,J. P. Nagar Bengaluru Karnataka,₹6.38 lakh
+Bengaluru,2012,Maruti Ertiga ZXI,"88,584 km",1st owner,Manual,Petrol,Vijayanagar Bengaluru Karnataka,₹6.24 lakh
+Bengaluru,2013,Maruti Ertiga VDI,"1,86,277 km",3rd owner,Manual,Diesel,Bommasandra Bengaluru Karnataka,₹5.14 lakh
+Bengaluru,2014,Maruti Ertiga ZXI,"71,309 km",2nd owner,Manual,Petrol,Banashankari Bengaluru Karnataka,₹5.5 lakh
+Bengaluru,2021,Maruti Ertiga ZXI AT SHVS,"41,324 km",2nd owner,Automatic,Petrol,"Bellahalli, Bengaluru",₹8.66 lakh
+Bengaluru,2021,Maruti Ertiga VXI CNG,"52,423 km",1st owner,Manual,Petrol,Anchepalya Bengaluru,₹10 lakh
+Bengaluru,2022,Maruti Ertiga LXI SHVS,"41,779 km",1st owner,Manual,Petrol,Hebbal Kempapura Byatarayanapura CMC and OG Part Karnataka,₹8.5 lakh
+Bengaluru,2024,Maruti FRONX DELTA PLUS 1.2MT,"16,564 km",1st owner,Manual,Petrol,Kodipur Bengaluru Karnataka,₹9.38 lakh
+Bengaluru,2023,Maruti Grand Vitara ALPHA SMART HYBRID DUAL TONE,"22,099 km",1st owner,Manual,Petrol,Akshayanagar Bengaluru Karnataka,₹14.37 lakh
+Bengaluru,2018,Maruti IGNIS SIGMA 1.2,"44,268 km",1st owner,Manual,Petrol,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",₹4.09 lakh
+Bengaluru,2021,Maruti IGNIS ALPHA 1.2 AMT,"19,049 km",1st owner,Automatic,Petrol,Subramanyapura Bengaluru Karnataka,₹5.3 lakh
+Bengaluru,2022,Maruti IGNIS ALPHA 1.2 AMT,"28,035 km",2nd owner,Automatic,Petrol,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",₹6.17 lakh
+Bengaluru,2019,Maruti New Wagon-R VXI 1.2,"33,163 km",2nd owner,Manual,Petrol,Krishnarajapuram Bengaluru Karnataka,₹3.6 lakh
+Bengaluru,2019,Maruti New Wagon-R VXI (O) 1.0 AMT,"43,346 km",2nd owner,Automatic,Petrol,Chikkalasandra Bengaluru Karnataka,₹4.77 lakh
+Bengaluru,2021,Maruti New Wagon-R VXI 1.2,"5,419 km",2nd owner,Manual,Petrol,Whitefield Bangalore Karnataka,₹4.1 lakh
+Bengaluru,2022,Maruti New Wagon-R VXI 1.0 AMT,"52,328 km",1st owner,Automatic,Petrol,"Vaishnavi Sapphire Centre, Yeswanthpur",₹5.74 lakh
+Bengaluru,2022,Maruti New Wagon-R ZXI 1.2,"16,158 km",1st owner,Manual,Petrol,Rajajinagar Bengaluru Karnataka,₹5.49 lakh
+Bengaluru,2024,Maruti New Wagon-R ZXI 1.2,"9,538 km",1st owner,Manual,Petrol,Subramanyapura Bengaluru Karnataka,₹6.51 lakh
+Bengaluru,2024,Maruti New Wagon-R VXI 1.0 AMT,"2,551 km",1st owner,Automatic,Petrol,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",₹6.98 lakh
+Bengaluru,2016,Maruti OMNI E STD,"1,96,036 km",1st owner,Manual,Petrol,Banashankari Bengaluru,₹3.48 lakh
+Bengaluru,2010,Maruti Ritz LDI,"1,44,383 km",1st owner,Manual,Diesel,Gottigere Bengaluru,₹2.1 lakh
+Bengaluru,2010,Maruti Ritz VDI ABS,"97,287 km",1st owner,Manual,Diesel,IndiraNagar Bengaluru Karnataka,₹1.88 lakh
+Bengaluru,2011,Maruti Ritz VXI,"61,614 km",3rd owner,Manual,Petrol,Akshayanagar Bengaluru,₹1.76 lakh
+Bengaluru,2012,Maruti Ritz VDI,"37,369 km",1st owner,Manual,Diesel,Marathahalli Bengaluru Karnataka,₹3.58 lakh
+Bengaluru,2012,Maruti Ritz VDI,"64,971 km",3rd owner,Manual,Diesel,Mathikere Bengaluru Karnataka,₹2.26 lakh
+Bengaluru,2012,Maruti Ritz VDI,"1,09,809 km",3rd owner,Manual,Diesel,Rajajinagar Bengaluru,₹2.55 lakh
+Bengaluru,2014,Maruti Ritz VXI,"88,800 km",3rd owner,Manual,Petrol,Devara Jeevanahalli Bengaluru,₹2.7 lakh
+Bengaluru,2016,Maruti Ritz LDI,"96,974 km",1st owner,Manual,Diesel,Naagarabhaavi Bengaluru,₹3.5 lakh
+Bengaluru,2016,Maruti Ritz LDI,"1,23,051 km",2nd owner,Manual,Diesel,Whitefield Bengaluru Karnataka,₹2.35 lakh
+Bengaluru,2015,Maruti S Cross ALPHA 1.6,"86,498 km",2nd owner,Manual,Diesel,HBR Layout Bengaluru Karnataka,₹5 lakh
+Bengaluru,2018,Maruti S Cross DELTA 1.3,"89,317 km",1st owner,Manual,Diesel,"Bellahalli, Bengaluru",₹7 lakh
+Bengaluru,2018,Maruti S Cross ZETA 1.3,"88,633 km",3rd owner,Manual,Diesel,Mahadevapura Bengaluru Karnataka,₹7.55 lakh
+Bengaluru,2020,Maruti S Cross DELTA 1.3,"85,911 km",2nd owner,Manual,Diesel,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",₹7.54 lakh
+Bengaluru,2020,Maruti S Cross ZETA 1.5,"63,259 km",2nd owner,Manual,Petrol,"GT World Mall, Bengaluru",₹6.78 lakh
+Bengaluru,2019,Maruti S PRESSO VXI+,"97,239 km",2nd owner,Manual,Petrol,"Vaishnavi Sapphire Centre, Yeswanthpur",₹1.81 lakh
+Bengaluru,2022,Maruti S PRESSO VXI+,"59,172 km",1st owner,Manual,Petrol,Kaikondrahalli Bengaluru Karnataka,₹4.49 lakh
+Bengaluru,2010,Maruti Swift VXI,"2,47,595 km",1st owner,Manual,Petrol,Hulimavu Bengaluru Karnataka,₹2.19 lakh
+Bengaluru,2010,Maruti Swift LDI,"1,44,074 km",2nd owner,Manual,Diesel,Banashankari Bengaluru,₹2.37 lakh
+Bengaluru,2010,Maruti Swift VXI,"45,836 km",1st owner,Manual,Petrol,Choodasandra Bengaluru Karnataka,₹1.73 lakh
+Bengaluru,2010,Maruti Swift VXI,"3,10,969 km",1st owner,Manual,Petrol,Yelahanka Bengaluru,₹2.74 lakh
+Bengaluru,2010,Maruti Swift VDI,"74,905 km",2nd owner,Manual,Diesel,Jalahalli East Bengaluru Karnataka,₹2.7 lakh
+Bengaluru,2011,Maruti Swift VXI,"79,728 km",3rd owner,Manual,Petrol,Jeevan Bima Nagar Bengaluru Karnataka,₹2.3 lakh
+Bengaluru,2011,Maruti Swift VDI,"89,581 km",3rd owner,Manual,Diesel,Frazer Town Bengaluru Karnataka,₹2.81 lakh
+Bengaluru,2011,Maruti Swift VDI,"88,805 km",3rd owner,Manual,Diesel,Murugeshpalya Bengaluru,₹1.42 lakh
+Bengaluru,2012,Maruti Swift LDI,"23,327 km",1st owner,Manual,Diesel,Shivaji Nagar Bengaluru Karnataka,₹3.63 lakh
+Bengaluru,2012,Maruti Swift VDI,"1,16,994 km",2nd owner,Manual,Diesel,Basaveshwar Nagar Bengaluru Karnataka,₹3.5 lakh
+Bengaluru,2012,Maruti Swift VXI,"69,788 km",2nd owner,Manual,Petrol,Ramamurthy Nagar Bengaluru Karnataka,₹3.68 lakh
+Bengaluru,2013,Maruti Swift VXI,"47,106 km",3rd owner,Manual,Petrol,Bengaluru Kothnur Karnataka,₹3.8 lakh
+Bengaluru,2013,Maruti Swift VDI,"85,156 km",1st owner,Manual,Diesel,Bangalore South Bengaluru Urban Karnataka,₹5.14 lakh
+Bengaluru,2013,Maruti Swift LXI,"64,702 km",3rd owner,Manual,Petrol,Bengaluru Bommasandra Karnataka,₹3.12 lakh
+Bengaluru,2013,Maruti Swift VXI,"78,898 km",1st owner,Manual,Petrol,"Bellahalli, Bengaluru",₹3.38 lakh
+Bengaluru,2014,Maruti Swift VDI,"1,01,874 km",1st owner,Manual,Diesel,Sahakar Nagar Bengaluru Karnataka,₹5.36 lakh
+Bengaluru,2014,Maruti Swift VDI,"63,645 km",1st owner,Manual,Diesel,Bilekahalli Bengaluru,₹4.69 lakh
+Bengaluru,2014,Maruti Swift VXI,"75,248 km",1st owner,Manual,Petrol,Electronic City Bengaluru Karnataka,₹4 lakh
+Bengaluru,2014,Maruti Swift ZXI,"52,635 km",3rd owner,Manual,Petrol,"GT World Mall, Bengaluru",₹4.07 lakh
+Bengaluru,2014,Maruti Swift VDI,"98,228 km",2nd owner,Manual,Diesel,Konanakunte Bengaluru Karnataka,₹4.48 lakh
+Bengaluru,2015,Maruti Swift VXI,"38,056 km",2nd owner,Manual,Petrol,Frazer Town Bengaluru,₹4.1 lakh
+Bengaluru,2015,Maruti Swift VXI,"40,979 km",2nd owner,Manual,Petrol,Viveka Nagar Bengaluru Karnataka,₹5 lakh
+Bengaluru,2016,Maruti Swift LDI,"1,16,939 km",3rd owner,Manual,Diesel,Nandini Layout Bengaluru Karnataka,₹3.35 lakh
+Bengaluru,2016,Maruti Swift ZXI,"1,06,822 km",1st owner,Manual,Petrol,Basaweshwara Nagar Bengaluru,₹5.37 lakh
+Bengaluru,2017,Maruti Swift ZDI,"61,737 km",1st owner,Manual,Diesel,J. P. Nagar Bengaluru,₹5.98 lakh
+Bengaluru,2017,Maruti Swift VDI (O),"98,620 km",1st owner,Manual,Diesel,Nexus Whitefield,₹5.11 lakh
+Bengaluru,2018,Maruti Swift VXI AMT,"1,10,703 km",2nd owner,Automatic,Petrol,J. P. Nagar Bengaluru Karnataka,₹4.48 lakh
+Bengaluru,2018,Maruti Swift VXI,"1,11,826 km",1st owner,Manual,Petrol,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore",₹5.05 lakh
+Bengaluru,2018,Maruti Swift ZDI AMT,"92,832 km",1st owner,Automatic,Diesel,Bengaluru Doddanagamangala Village Karnataka,₹7.58 lakh
+Bengaluru,2018,Maruti Swift VXI,"25,798 km",1st owner,Manual,Petrol,BTM Layout Bengaluru,₹5.79 lakh
+Bengaluru,2018,Maruti Swift VXI AMT,"51,441 km",1st owner,Automatic,Petrol,"Vaishnavi Sapphire Centre, Yeswanthpur",₹6 lakh
+Bengaluru,2018,Maruti Swift ZXI PLUS,"47,100 km",1st owner,Manual,Petrol,New Tippasandra Bengaluru Karnataka,₹7 lakh
+Bengaluru,2018,Maruti Swift ZDI AMT,"1,01,004 km",2nd owner,Automatic,Diesel,Konanakunte Bengaluru Karnataka,₹5.62 lakh
+Bengaluru,2018,Maruti Swift VXI AMT,"38,862 km",3rd owner,Automatic,Petrol,Balagere Bengaluru,₹5.06 lakh
+Bengaluru,2019,Maruti Swift VXI,"1,05,060 km",2nd owner,Manual,Petrol,Syndicate Bank Employees Housing Society Layout Bengaluru Karnataka,₹5.07 lakh
+Bengaluru,2020,Maruti Swift VXI,"31,699 km",1st owner,Manual,Petrol,"GT World Mall, Bengaluru",₹6.35 lakh
+Bengaluru,2020,Maruti Swift ZXI PLUS,"39,672 km",1st owner,Manual,Petrol,Hosakerehalli Bengaluru,₹7.75 lakh
+Bengaluru,2021,Maruti Swift VXI,"54,584 km",1st owner,Manual,Petrol,Gandhi Nagar,₹6.11 lakh
+Bengaluru,2021,Maruti Swift LXI,"44,575 km",1st owner,Manual,Petrol,Ashok Nagar Bengaluru Karnataka,₹5.6 lakh
+Bengaluru,2022,Maruti Swift VXI AMT,"33,676 km",1st owner,Automatic,Petrol,"Bellahalli, Bengaluru",₹6.66 lakh
+Bengaluru,2023,Maruti Swift VXI,"69,001 km",1st owner,Manual,Petrol,"GT World Mall, Bengaluru",₹5.96 lakh
+Bengaluru,2023,Maruti Swift VXI CNG,"79,435 km",1st owner,Manual,Petrol,Bikasipura Bengaluru Karnataka,₹7.9 lakh
+Bengaluru,2023,Maruti Swift ZXI AMT,"34,317 km",1st owner,Automatic,Petrol,Bilekahalli Bengaluru Karnataka,₹7.69 lakh
+Bengaluru,2023,Maruti Swift ZXI,"12,699 km",1st owner,Manual,Petrol,J. P. Nagar Bengaluru Karnataka,₹7.3 lakh
+Bengaluru,2024,Maruti Swift ZXi,"13,690 km",1st owner,Manual,Petrol,Sulikunte Bengaluru,₹7.9 lakh
+Bengaluru,2010,Maruti Swift Dzire LXI,"1,00,451 km",2nd owner,Manual,Petrol,RK Hegde Nagar Bengaluru Karnataka,₹2.23 lakh
+Bengaluru,2011,Maruti Swift Dzire VXI,"76,112 km",1st owner,Manual,Petrol,Kudlu Bengaluru,₹3.38 lakh
+Bengaluru,2011,Maruti Swift Dzire VXI,"1,15,563 km",3rd owner,Manual,Petrol,HBR Layout Bengaluru,₹2.66 lakh
+Bengaluru,2011,Maruti Swift Dzire VXI,"70,776 km",1st owner,Manual,Petrol,Apartment Bengaluru Karnataka,₹2.8 lakh
+Bengaluru,2011,Maruti Swift Dzire VDI,"83,777 km",2nd owner,Manual,Diesel,Peenya Bengaluru Karnataka,₹3.04 lakh
+Bengaluru,2012,Maruti Swift Dzire ZXI,"1,16,106 km",1st owner,Manual,Petrol,Peenya Bengaluru Karnataka,₹2.79 lakh
+Bengaluru,2012,Maruti Swift Dzire TOUR DIESEL,"2,03,516 km",1st owner,Manual,Diesel,Naagarabhaavi Bengaluru Karnataka,₹3.28 lakh
+Bengaluru,2013,Maruti Swift Dzire LXI,"81,264 km",4th owner,Manual,Petrol,Sector 38 Gurugram,₹2.43 lakh
+Bengaluru,2013,Maruti Swift Dzire VXI,"51,496 km",1st owner,Manual,Petrol,Gupta Layout Bengaluru Karnataka,₹4.04 lakh
+Bengaluru,2013,Maruti Swift Dzire LDI,"1,50,657 km",1st owner,Manual,Diesel,Kalena Agrahara Bengaluru,₹3.46 lakh
+Bengaluru,2013,Maruti Swift Dzire ZDI,"1,10,085 km",3rd owner,Manual,Diesel,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore",₹3.92 lakh
+Bengaluru,2014,Maruti Swift Dzire VDI,"40,500 km",1st owner,Manual,Diesel,Krishnarajapuram Bengaluru Karnataka,₹3.86 lakh
+Bengaluru,2014,Maruti Swift Dzire VDI,"1,27,376 km",1st owner,Manual,Diesel,Akshayanagar Bengaluru,₹4.25 lakh
+Bengaluru,2014,Maruti Swift Dzire VXI,"1,43,383 km",3rd owner,Manual,Petrol,Yeshwanthpura,₹3.5 lakh
+Bengaluru,2014,Maruti Swift Dzire VDI,"91,704 km",1st owner,Manual,Diesel,C V Raman Nagar Bengaluru Karnataka,₹5.33 lakh
+Bengaluru,2014,Maruti Swift Dzire VDI,"1,16,000 km",2nd owner,Manual,Diesel,J. P. Nagar Bengaluru Karnataka,₹4.2 lakh
+Bengaluru,2014,Maruti Swift Dzire VDI,"1,37,224 km",1st owner,Manual,Diesel,Vijayanagar Bengaluru,₹5.88 lakh
+Bengaluru,2014,Maruti Swift Dzire ZXI,"32,187 km",1st owner,Manual,Petrol,Subramanyapura Bengaluru Karnataka,₹5.42 lakh
+Bengaluru,2015,Maruti Swift Dzire ZXI,"87,197 km",2nd owner,Manual,Petrol,Rajarajeshwari Nagar Ganakal Village,₹5.09 lakh
+Bengaluru,2015,Maruti Swift Dzire VDI,"99,976 km",2nd owner,Manual,Diesel,Hongasandra Bengaluru,₹5.42 lakh
+Bengaluru,2015,Maruti Swift Dzire ZXI,"1,99,873 km",2nd owner,Manual,Petrol,Doddanagamangala Village Bengaluru Karnataka,₹4.79 lakh
+Bengaluru,2016,Maruti Swift Dzire VXI (O),"56,444 km",3rd owner,Manual,Petrol,K Channasandra Bengaluru Karnataka,₹3.85 lakh
+Bengaluru,2016,Maruti Swift Dzire VXI (O) AT,"58,821 km",2nd owner,Automatic,Petrol,Byatarayanapura Bengaluru,₹4.11 lakh
+Bengaluru,2016,Maruti Swift Dzire ZXI,"1,44,691 km",1st owner,Manual,Petrol,Banaswadi Bengaluru,₹4.17 lakh
+Bengaluru,2017,Maruti Swift Dzire ZXI,"98,000 km",1st owner,Manual,Petrol,Electronic City Bengaluru Karnataka,₹4.27 lakh
+Bengaluru,2010,Maruti SX4 ZXI,"1,60,104 km",2nd owner,Manual,Petrol,Bengaluru Kothnur Karnataka,₹2.3 lakh
+Bengaluru,2010,Maruti SX4 ZXI,"1,00,864 km",2nd owner,Manual,Petrol,Subramanyapura Bengaluru Karnataka,₹2.35 lakh
+Bengaluru,2010,Maruti SX4 VXI,"67,777 km",2nd owner,Manual,Petrol,Doddanekkundi Bengaluru,₹1.17 lakh
+Bengaluru,2010,Maruti SX4 ZXI AT,"58,847 km",3rd owner,Automatic,Petrol,Jayanagar Bengaluru,₹2 lakh
+Bengaluru,2010,Maruti SX4 ZXI,"1,33,160 km",2nd owner,Manual,Petrol,Chandra Layout Bengaluru Karnataka,₹2.03 lakh
+Bengaluru,2016,Maruti Vitara Brezza ZDI,"86,403 km",1st owner,Manual,Diesel,Prakruthi Twp Bengaluru Karnataka,₹4.88 lakh
+Bengaluru,2017,Maruti Vitara Brezza ZDI,"40,535 km",1st owner,Manual,Diesel,Devasthanagalu Bengaluru Karnataka,₹5.86 lakh
+Bengaluru,2020,Maruti Vitara Brezza ZXI PLUS DUAL TONE,"1,02,037 km",3rd owner,Manual,Petrol,"GT World Mall, Bengaluru",₹6.16 lakh
+Bengaluru,2020,Maruti Vitara Brezza VXI,"84,034 km",3rd owner,Manual,Petrol,Jayanagar Bengaluru Karnataka,₹6.43 lakh
+Bengaluru,2021,Maruti Vitara Brezza ZXI PLUS,"63,411 km",1st owner,Manual,Petrol,Nexus Whitefield,₹8.65 lakh
+Bengaluru,2021,Maruti Vitara Brezza ZXI PLUS DUAL TONE,"2,515 km",1st owner,Manual,Petrol,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore",₹9.28 lakh
+Bengaluru,2022,Maruti Vitara Brezza VXI,"18,676 km",1st owner,Manual,Petrol,"Vaishnavi Sapphire Centre, Yeswanthpur",₹8.18 lakh
+Bengaluru,2022,Maruti Vitara Brezza ZXI PLUS,"24,936 km",1st owner,Manual,Petrol,"Bellahalli, Bengaluru",₹8.88 lakh
+Bengaluru,2010,Maruti Wagon R 1.0 VXI,"32,160 km",1st owner,Manual,Petrol,Kaggadasapura Bengaluru Karnataka,₹1.66 lakh
+Bengaluru,2010,Maruti Wagon R 1.0 LXI,"35,757 km",1st owner,Manual,Petrol,Bilekahalli Bengaluru Karnataka,₹1.8 lakh
+Bengaluru,2012,Maruti Wagon R 1.0 VXI,"99,376 km",2nd owner,Manual,Petrol,Krishnarajapura Bengaluru Karnataka,₹2.37 lakh
+Bengaluru,2012,Maruti Wagon R 1.0 LXI LPG,"94,701 km",2nd owner,Manual,Petrol,RHQV+3G7 Bengaluru Karnataka,₹2.5 lakh
+Bengaluru,2013,Maruti Wagon R 1.0 VXI,"34,324 km",2nd owner,Manual,Petrol,J. P. Nagar Bengaluru Karnataka,₹3 lakh
+Bengaluru,2013,Maruti Wagon R 1.0 VXI,"78,175 km",2nd owner,Manual,Petrol,Lal Bahadur Shastri Nagar Bengaluru Karnataka,₹3.3 lakh
+Bengaluru,2014,Maruti Wagon R 1.0 VXI,"41,591 km",1st owner,Manual,Petrol,"Vaishnavi Sapphire Centre, Yeswanthpur",₹3.52 lakh
+Bengaluru,2014,Maruti Wagon R 1.0 VXI,"42,068 km",1st owner,Manual,Petrol,Bellandur Bengaluru Karnataka,₹4.15 lakh
+Bengaluru,2014,Maruti Wagon R 1.0 LXI CNG,"75,279 km",2nd owner,Manual,Petrol,R34SPL3 Vaderamanchana Halli,₹2.27 lakh
+Bengaluru,2014,Maruti Wagon R 1.0 VXI,"70,504 km",1st owner,Manual,Petrol,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru",₹3.31 lakh
+Bengaluru,2014,Maruti Wagon R 1.0 VXI,"79,420 km",1st owner,Manual,Petrol,Choodasandra Bangalore Karnataka,₹2.56 lakh
+Bengaluru,2017,Maruti Wagon R 1.0 VXI AMT,"41,050 km",1st owner,Automatic,Petrol,"Bellahalli, Bengaluru",₹3.97 lakh
+Bengaluru,2017,Maruti Wagon R 1.0 VXI,"52,594 km",1st owner,Manual,Petrol,Malleshwaram Bengaluru,₹4.5 lakh
+Bengaluru,2010,Maruti Wagon R LXI MINOR,"1,47,582 km",1st owner,Manual,Petrol,Gottigere Bengaluru Karnataka,₹2.25 lakh
+Bengaluru,2020,Maruti XL6 ZETA MT,"49,426 km",1st owner,Manual,Petrol,State Bank Of India Colony Bengaluru,₹9.75 lakh
+Bengaluru,2020,Maruti XL6 ZETA MT,"33,324 km",1st owner,Manual,Petrol,"GT World Mall, Bengaluru",₹9.59 lakh
+Bengaluru,2021,Maruti XL6 ALPHA AT,"34,262 km",1st owner,Automatic,Petrol,Garvebhavi Palya Bengaluru,₹9.93 lakh
+Bengaluru,2011,Maruti Zen Estilo VXI,"16,566 km",1st owner,Manual,Petrol,Nayanda Halli Bengaluru Karnataka,₹2.2 lakh
+Ahmedabad,2010,Maruti A Star LXI,"59,134 km",2nd owner,Manual,Petrol,Bapunagar Ahmedabad,₹0.75 lakh
+Ahmedabad,2010,Maruti Alto LXI,"91,443 km",2nd owner,Manual,Petrol,Ramdev Nagar Ahmedabad Gujarat,₹0.99 lakh
+Ahmedabad,2010,Maruti Alto LXI,"1,10,563 km",2nd owner,Manual,Petrol,Modasar Bavla,₹0.79 lakh
+Ahmedabad,2010,Maruti Alto LXI,"1,34,085 km",5th owner,Manual,Petrol,Nava Vadaj Ahmedabad,₹0.65 lakh
+Ahmedabad,2010,Maruti Alto LXI,"1,13,363 km",3rd owner,Manual,Petrol,Mahadev Nagar Tekra Ahmedabad Gujarat,₹0.67 lakh
+Ahmedabad,2010,Maruti Alto LXI,"1,50,149 km",2nd owner,Manual,Petrol,Sector 18 Gurugram,₹0.8 lakh
+Ahmedabad,2010,Maruti Alto LXI,"1,02,906 km",4th owner,Manual,Petrol,Nikol Ahmedabad Gujarat,₹0.63 lakh
+Ahmedabad,2011,Maruti Alto LXI,"68,122 km",2nd owner,Manual,Petrol,Naroda Ahmedabad Gujarat,₹0.75 lakh
+Ahmedabad,2011,Maruti Alto LXI,"1,46,053 km",3rd owner,Manual,Petrol,Vastrapur Ahmedabad Gujarat,₹0.89 lakh
+Ahmedabad,2012,Maruti Alto LX,"1,39,003 km",4th owner,Manual,Petrol,Ellisbridge Ahmedabad Gujarat,₹0.59 lakh
+Ahmedabad,2012,Maruti Alto LXI,"1,49,618 km",2nd owner,Manual,Petrol,Vastral Ahmedabad Gujarat,₹0.74 lakh
+Ahmedabad,2012,Maruti Alto LXI,"88,549 km",3rd owner,Manual,Petrol,Narolgam Ahmedabad,₹0.82 lakh
+Ahmedabad,2012,Maruti Alto LXI,"2,69,615 km",1st owner,Manual,Petrol,Nava Naroda Ahmedabad Gujarat,₹0.98 lakh
+Ahmedabad,2019,Maruti Alto LXI,"95,703 km",1st owner,Manual,Petrol,Nava Naroda Ahmedabad Gujarat,₹2.62 lakh
+Ahmedabad,2020,Maruti Alto LXI CNG,"87,648 km",2nd owner,Manual,Petrol,Mumatpura Ahmedabad Gujarat,₹3.05 lakh
+Ahmedabad,2021,Maruti Alto LXI,"15,035 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹3.31 lakh
+Ahmedabad,2021,Maruti Alto VXI,"56,516 km",1st owner,Manual,Petrol,Vatva Ahmedabad Gujarat,₹2.59 lakh
+Ahmedabad,2021,Maruti Alto LXI,"38,063 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹3.09 lakh
+Ahmedabad,2021,Maruti Alto LXI,"72,657 km",1st owner,Manual,Petrol,Bavla Ahmedabad Gujarat,₹3.05 lakh
+Ahmedabad,2023,Maruti Alto LXI O,"31,065 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹3.34 lakh
+Ahmedabad,2023,Maruti Alto LXI O,"38,456 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹4 lakh
+Ahmedabad,2013,Maruti Alto 800 LX,"1,35,163 km",2nd owner,Manual,Petrol,Hatkeshwar Ahmedabad Gujarat,₹1.17 lakh
+Ahmedabad,2014,Maruti Alto 800 LXI,"2,38,956 km",1st owner,Manual,Petrol,Khokhra Ahmedabad,₹1.92 lakh
+Ahmedabad,2014,Maruti Alto 800 LXI,"98,761 km",3rd owner,Manual,Petrol,Nikol Ahmedabad Gujarat,₹1.59 lakh
+Ahmedabad,2015,Maruti Alto 800 LXI,"1,03,995 km",2nd owner,Manual,Petrol,Thaltej Ahmedabad Gujarat,₹1.62 lakh
+Ahmedabad,2015,Maruti Alto 800 LXI,"62,139 km",2nd owner,Manual,Petrol,Vastral Ahmedabad,₹1.7 lakh
+Ahmedabad,2016,Maruti Alto 800 LXI,"1,58,395 km",1st owner,Manual,Petrol,Maninagar Ahmedabad Gujarat,₹2.52 lakh
+Ahmedabad,2017,Maruti Alto 800 LXI,"76,166 km",1st owner,Manual,Petrol,Mumatpura Ahmedabad Gujarat,₹2.8 lakh
+Ahmedabad,2017,Maruti Alto 800 LXI,"51,214 km",1st owner,Manual,Petrol,Vastral Ahmedabad Gujarat,₹2.51 lakh
+Ahmedabad,2017,Maruti Alto 800 LXI,"76,282 km",1st owner,Manual,Petrol,"Naroda, Ahmedabad",₹2.6 lakh
+Ahmedabad,2018,Maruti Alto 800 LXI,"1,03,845 km",1st owner,Manual,Petrol,Sector 38 Gurugram,₹2.09 lakh
+Ahmedabad,2018,Maruti Alto 800 LXI,"82,254 km",2nd owner,Manual,Petrol,Naroda Ahmedabad Gujarat,₹2.42 lakh
+Ahmedabad,2018,Maruti Alto 800 LXI,"2,51,000 km",3rd owner,Manual,Petrol,Naroda Ahmedabad Gujarat,₹2.19 lakh
+Ahmedabad,2018,Maruti Alto 800 VXI,"43,971 km",1st owner,Manual,Petrol,VTC Patan Patan Gujarat,₹2.61 lakh
+Ahmedabad,2018,Maruti Alto 800 LXI,"51,296 km",1st owner,Manual,Petrol,Orchid harmony Ahmedabad,₹2.74 lakh
+Ahmedabad,2018,Maruti Alto 800 LXI,"23,658 km",1st owner,Manual,Petrol,Naroda Ahmedabad Gujarat,₹2.69 lakh
+Ahmedabad,2018,Maruti Alto 800 LXI,"1,39,869 km",2nd owner,Manual,Petrol,Gota Ahmedabad Gujarat,₹2.47 lakh
+Ahmedabad,2018,Maruti Alto 800 LXI,"45,398 km",1st owner,Manual,Petrol,"Naroda, Ahmedabad",₹2.74 lakh
+Ahmedabad,2010,Maruti Alto K10 LXI,"57,499 km",1st owner,Manual,Petrol,Noble Nagar Tenament Ahmedabad Gujarat,₹0.9 lakh
+Ahmedabad,2012,Maruti Alto K10 VXI,"48,743 km",1st owner,Manual,Petrol,Naroda Ahmedabad Gujarat,₹1.29 lakh
+Ahmedabad,2014,Maruti Alto K10 VXI,"1,95,419 km",1st owner,Manual,Petrol,Near fountain hotel Ahmedabad Gujarat,₹1.62 lakh
+Ahmedabad,2016,Maruti Alto K10 VXI AMT,"71,991 km",2nd owner,Automatic,Petrol,Radhanpuri Dholka,₹2.15 lakh
+Ahmedabad,2017,Maruti Alto K10 VXI,"33,497 km",1st owner,Manual,Petrol,Vastral Ahmedabad Gujarat,₹2.68 lakh
+Ahmedabad,2024,Maruti Alto K10 VXI,"21,759 km",1st owner,Manual,Petrol,rampura chokwdi Mandal,₹4.31 lakh
+Ahmedabad,2016,Maruti Baleno DELTA PETROL 1.2,"88,067 km",1st owner,Manual,Petrol,Old Wadaj Ahmedabad Gujarat,₹3.23 lakh
+Ahmedabad,2016,Maruti Baleno ZETA DIESEL 1.3,"86,205 km",1st owner,Manual,Diesel,Thaltej Ahmedabad Gujarat,₹4.23 lakh
+Ahmedabad,2016,Maruti Baleno DELTA PETROL 1.2,"1,60,380 km",1st owner,Manual,Petrol,Sarkhej-Okaf Ahmedabad Gujarat,₹3.54 lakh
+Ahmedabad,2017,Maruti Baleno ALPHA PETROL 1.2,"1,07,620 km",1st owner,Manual,Petrol,Makarba Ahmedabad Gujarat,₹4.45 lakh
+Ahmedabad,2017,Maruti Baleno RS 1.0 PETROL,"56,032 km",1st owner,Manual,Petrol,Ahmedabad Cantonment Ahmedabad,₹4.14 lakh
+Ahmedabad,2017,Maruti Baleno SIGMA PETROL 1.2,"80,000 km",1st owner,Manual,Petrol,Sherkotda Ahmedabad,₹3.69 lakh
+Ahmedabad,2017,Maruti Baleno DELTA PETROL 1.2,"1,05,389 km",2nd owner,Manual,Petrol,"Naroda, Ahmedabad",₹3.6 lakh
+Ahmedabad,2017,Maruti Baleno DELTA CVT PETROL 1.2,"87,650 km",3rd owner,Automatic,Petrol,swaminarayan mandir hathijan Ahmedabad Gujarat,₹3.07 lakh
+Ahmedabad,2018,Maruti Baleno ALPHA PETROL 1.2,"70,964 km",1st owner,Manual,Petrol,"Naroda, Ahmedabad",₹5.05 lakh
+Ahmedabad,2018,Maruti Baleno ZETA PETROL 1.2,"81,787 km",1st owner,Manual,Petrol,Kalikund Dholka,₹4.49 lakh
+Ahmedabad,2018,Maruti Baleno DELTA PETROL 1.2,"65,411 km",1st owner,Manual,Petrol,Chandkheda Ahmedabad Gujarat,₹3.65 lakh
+Ahmedabad,2019,Maruti Baleno DELTA PETROL 1.2,"59,794 km",1st owner,Manual,Petrol,"Naroda, Ahmedabad",₹4.94 lakh
+Ahmedabad,2019,Maruti Baleno DELTA PETROL 1.2,"59,977 km",2nd owner,Manual,Petrol,Vatva Ahmedabad Gujarat,₹3.93 lakh
+Ahmedabad,2019,Maruti Baleno ZETA PETROL 1.2,"97,794 km",2nd owner,Manual,CNG,"Naroda, Ahmedabad",₹5.01 lakh
+Ahmedabad,2020,Maruti Baleno DELTA PETROL 1.2,"23,759 km",2nd owner,Manual,Petrol,Nikol Ahmedabad,₹4.81 lakh
+Ahmedabad,2020,Maruti Baleno DELTA PETROL 1.2,"35,439 km",1st owner,Manual,Petrol,"Naroda, Ahmedabad",₹5.5 lakh
+Ahmedabad,2021,Maruti Baleno DELTA PETROL 1.2,"29,730 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹5.59 lakh
+Ahmedabad,2021,Maruti Baleno DELTA PETROL 1.2,"51,000 km",1st owner,Manual,Petrol,Chanakyapuri Ahmedabad,₹4.52 lakh
+Ahmedabad,2021,Maruti Baleno DELTA PETROL 1.2,"38,370 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹5.7 lakh
+Ahmedabad,2022,Maruti Baleno SIGMA PETROL 1.2,"45,625 km",1st owner,Manual,Petrol,Nikol Ahmedabad,₹5.35 lakh
+Ahmedabad,2022,Maruti Baleno DELTA PETROL 1.2,"42,961 km",1st owner,Manual,Petrol,Odhav Ahmedabad Gujarat,₹5.47 lakh
+Ahmedabad,2022,Maruti Baleno ALPHA 1.2 AGS,"34,036 km",1st owner,Automatic,Petrol,"Naroda, Ahmedabad",₹7.39 lakh
+Ahmedabad,2023,Maruti Baleno SIGMA PETROL 1.2,"37,543 km",1st owner,Manual,Petrol,Chandkheda Ahmedabad,₹5.56 lakh
+Ahmedabad,2024,Maruti Baleno SIGMA PETROL 1.2,"15,387 km",1st owner,Manual,Petrol,"Naroda, Ahmedabad",₹5.52 lakh
+Ahmedabad,2024,Maruti Baleno DELTA 1.2 AGS,"3,558 km",1st owner,Automatic,Petrol,"Naroda, Ahmedabad",₹6.91 lakh
+Ahmedabad,2014,Maruti Celerio VXI,"64,110 km",1st owner,Manual,Petrol,Jodhpur Village Ahmedabad Gujarat,₹2.47 lakh
+Ahmedabad,2014,Maruti Celerio VXI,"1,14,506 km",2nd owner,Manual,Petrol,Bopal Ahmedabad Gujarat,₹2.31 lakh
+Ahmedabad,2015,Maruti Celerio VXI,"1,18,359 km",2nd owner,Manual,Petrol,Hansol Ahmedabad Gujarat,₹2.5 lakh
+Ahmedabad,2016,Maruti Celerio VXI,"1,51,197 km",1st owner,Manual,Petrol,Odhav Ahmadabad Gujarat,₹2.87 lakh
+Ahmedabad,2016,Maruti Celerio ZXI AMT,"34,709 km",3rd owner,Automatic,Petrol,GIDC Naroda Ahmedabad,₹2.22 lakh
+Ahmedabad,2018,Maruti Celerio ZXI AMT (O),"98,276 km",1st owner,Automatic,Petrol,"Karnavati Club, Ahmedabad",₹3.48 lakh
+Ahmedabad,2023,Maruti Celerio ZXI,"14,052 km",1st owner,Manual,Petrol,Vejalpur Ahmedabad Gujarat,₹5.02 lakh
+Ahmedabad,2015,Maruti Ciaz ZXI+,"1,17,990 km",2nd owner,Manual,Petrol,Nikol Ahmedabad,₹3.54 lakh
+Ahmedabad,2015,Maruti Ciaz ZDI,"1,15,370 km",1st owner,Manual,Diesel,Hansol Ahmedabad,₹3.56 lakh
+Ahmedabad,2016,Maruti Ciaz ZXI,"1,56,972 km",2nd owner,Manual,Petrol,Vatva GIDC Ahmedabad,₹4.11 lakh
+Ahmedabad,2016,Maruti Ciaz VDI+ SHVS,"98,511 km",2nd owner,Manual,Diesel,aadhvan rise Ahmedabad Gujarat,₹4.38 lakh
+Ahmedabad,2016,Maruti Ciaz VXI,"56,063 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹4.72 lakh
+Ahmedabad,2016,Maruti Ciaz VDI+ SHVS,"81,776 km",2nd owner,Manual,Diesel,Ghatlodiya Ahmedabad Gujarat,₹4.03 lakh
+Ahmedabad,2016,Maruti Ciaz ZXI+ AT,"88,755 km",2nd owner,Automatic,Petrol,Amraiwadi Ahmedabad Gujarat,₹3.76 lakh
+Ahmedabad,2016,Maruti Ciaz ZDI+ SHVS,"1,88,748 km",3rd owner,Manual,Diesel,Khokhra Ahmedabad,₹3.2 lakh
+Ahmedabad,2017,Maruti Ciaz DELTA 1.4 MT PETROL,"76,596 km",1st owner,Manual,Petrol,Thaltej Ahmedabad Gujarat,₹4.3 lakh
+Ahmedabad,2017,Maruti Ciaz VXI+,"1,09,141 km",2nd owner,Manual,Petrol,Prahlad Nagar Ahmedabad Gujarat,₹4.57 lakh
+Ahmedabad,2017,Maruti Ciaz ALPHA 1.4 PETROL,"75,643 km",3rd owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹4.26 lakh
+Ahmedabad,2018,Maruti Ciaz DELTA DIESEL 1.3,"70,645 km",2nd owner,Manual,Diesel,Shahibag Ahmedabad Gujarat,₹4.35 lakh
+Ahmedabad,2018,Maruti Ciaz DELTA DIESEL 1.3,"1,64,615 km",1st owner,Manual,Diesel,Sargasan Gandhinagar,₹4.78 lakh
+Ahmedabad,2019,Maruti Ciaz ALPHA 1.5 SHVS PETROL,"25,220 km",2nd owner,Manual,Petrol,Khodiar Nagar Ahmedabad Gujarat,₹6.74 lakh
+Ahmedabad,2020,Maruti Ciaz DELTA 1.5 SHVS MT PETROL,"75,077 km",1st owner,Manual,CNG,"Karnavati Club, Ahmedabad",₹6.3 lakh
+Ahmedabad,2023,Maruti Ciaz SIGMA 1.5 SHVS MT PETROL,"52,812 km",1st owner,Manual,Petrol,"Naroda, Ahmedabad",₹6.6 lakh
+Ahmedabad,2017,Maruti Dzire VXI,"1,51,482 km",1st owner,Manual,Petrol,GIDC Naroda Ahmedabad Gujarat,₹3.9 lakh
+Ahmedabad,2017,Maruti Dzire LDI,"54,431 km",1st owner,Manual,Diesel,Krushna Nagar Society Sanand Gujarat,₹3.94 lakh
+Ahmedabad,2017,Maruti Dzire VDI,"1,81,835 km",1st owner,Manual,Diesel,Narolgam Ahmedabad Gujarat,₹4.47 lakh
+Ahmedabad,2017,Maruti Dzire VDI AMT,"1,68,800 km",1st owner,Automatic,Diesel,Hansol Ahmedabad,₹4.15 lakh
+Ahmedabad,2019,Maruti Dzire ZXI,"87,315 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹5.12 lakh
+Ahmedabad,2019,Maruti Dzire VXI,"1,15,986 km",2nd owner,Manual,Petrol,Ashok Vatika Ahmedabad,₹4.58 lakh
+Ahmedabad,2019,Maruti Dzire VXI,"1,17,929 km",1st owner,Manual,Petrol,A1103 Ahmedabad Gujarat,₹3.94 lakh
+Ahmedabad,2020,Maruti Dzire VXI,"59,719 km",1st owner,Manual,Petrol,"Naroda, Ahmedabad",₹5.1 lakh
+Ahmedabad,2021,Maruti Dzire VXI AMT,"37,632 km",2nd owner,Automatic,Petrol,Nava Naroda Ahmedabad Gujarat,₹5.5 lakh
+Ahmedabad,2022,Maruti Dzire VXI,"64,818 km",1st owner,Manual,Petrol,Sughad Ahmedabad Gujarat,₹5.29 lakh
+Ahmedabad,2023,Maruti Dzire VXI CNG,"31,725 km",1st owner,Manual,Petrol,Sabarmatitaluka Ahmedabad Gujarat,₹7.22 lakh
+Ahmedabad,2010,Maruti Eeco 7 STR,"1,38,235 km",4th owner,Manual,Petrol,Saijpur Bogha Ahmedabad Gujarat,₹1.29 lakh
+Ahmedabad,2012,Maruti Eeco 7 STR,"2,15,000 km",1st owner,Manual,Petrol,Sector 38 Gurugram,₹2.75 lakh
+Ahmedabad,2013,Maruti Eeco 5 STR WITH A/C+HTR,"2,07,541 km",4th owner,Manual,Petrol,Ramdev Nagar Ahmedabad Gujarat,₹1.68 lakh
+Ahmedabad,2014,Maruti Eeco 7 STR,"53,830 km",1st owner,Manual,Petrol,Vatva Ahmedabad,₹2.52 lakh
+Ahmedabad,2015,Maruti Eeco 5 STR WITH A/C+HTR,"1,38,967 km",2nd owner,Manual,Petrol,Nava Naroda Ahmedabad Gujarat,₹2.1 lakh
+Ahmedabad,2017,Maruti Eeco 5 STR WITH A/C+HTR,"1,23,601 km",2nd owner,Manual,Petrol,Nikol Ahmedabad Gujarat,₹2.72 lakh
+Ahmedabad,2017,Maruti Eeco 5 STR WITH A/C+HTR,"69,627 km",2nd owner,Manual,Petrol,Hansol Ahmedabad,₹3.12 lakh
+Ahmedabad,2018,Maruti Eeco 5 STR WITH A/C+HTR,"87,550 km",1st owner,Manual,Petrol,Nirnay Nagar Ahmedabad Gujarat,₹4.55 lakh
+Ahmedabad,2019,Maruti Eeco 5 STR WITH A/C+HTR,"80,034 km",2nd owner,Manual,CNG,"Naroda, Ahmedabad",₹3.93 lakh
+Ahmedabad,2019,Maruti Eeco 5 STR WITH A/C+HTR,"50,524 km",1st owner,Manual,CNG,"Karnavati Club, Ahmedabad",₹4.55 lakh
+Ahmedabad,2022,Maruti Eeco 5 STR AC CNG (O),"83,159 km",1st owner,Manual,Petrol,Saijpur Bogha Ahmedabad,₹5.25 lakh
+Ahmedabad,2022,Maruti Eeco 5 STR AC CNG,"72,765 km",1st owner,Manual,Petrol,Hari Om Nagar Dholka Gujarat,₹5.14 lakh
+Ahmedabad,2016,Maruti Ertiga VXI ABS,"1,27,468 km",2nd owner,Manual,Petrol,VH5V+8M9 Bareja Gujarat,₹5.61 lakh
+Ahmedabad,2016,Maruti Ertiga ZDI + SHVS,"96,192 km",1st owner,Manual,Diesel,Nava Naroda Ahmedabad Gujarat,₹6.37 lakh
+Ahmedabad,2018,Maruti Ertiga VDI SHVS,"80,011 km",1st owner,Manual,Diesel,Ramdev Nagar Ahmedabad Gujarat,₹7.86 lakh
+Ahmedabad,2018,Maruti Ertiga VDI 1.3,"1,31,414 km",2nd owner,Manual,Diesel,Narolgam Ahmedabad Gujarat,₹7 lakh
+Ahmedabad,2018,Maruti Ertiga VXI,"73,637 km",1st owner,Manual,Petrol,Jivraj Park Ahmedabad Gujarat,₹5.67 lakh
+Ahmedabad,2018,Maruti Ertiga VDI SHVS,"76,563 km",1st owner,Manual,Diesel,Sola Ahmedabad Gujarat,₹7.19 lakh
+Ahmedabad,2019,Maruti Ertiga ZXI+ SHVS,"1,02,931 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹7.65 lakh
+Ahmedabad,2020,Maruti Ertiga VXI SHVS,"58,311 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹7.35 lakh
+Ahmedabad,2022,Maruti Ertiga VXI CNG,"83,808 km",1st owner,Manual,Petrol,Bhapungar Ahmedabad,₹8.85 lakh
+Ahmedabad,2023,Maruti FRONX DELTA PLUS 1.2L AGS,"14,670 km",1st owner,Automatic,Petrol,"Naroda, Ahmedabad",₹7.35 lakh
+Ahmedabad,2023,Maruti FRONX DELTA CNG 1.2 MT,"45,809 km",1st owner,Manual,CNG,"Karnavati Club, Ahmedabad",₹7.27 lakh
+Ahmedabad,2022,Maruti Grand Vitara ALPHA SMART HYBRID AT,"32,497 km",1st owner,Automatic,Petrol,"Karnavati Club, Ahmedabad",₹13.57 lakh
+Ahmedabad,2023,Maruti Grand Vitara ALPHA SMART HYBRID,"50,302 km",2nd owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹11.91 lakh
+Ahmedabad,2024,Maruti Grand Vitara DELTA SMART HYBRID,"15,828 km",1st owner,Manual,Petrol,Narmada Vasahat Sanand Gujarat,₹9.68 lakh
+Ahmedabad,2017,Maruti IGNIS DELTA 1.3,"42,660 km",1st owner,Manual,Diesel,"Karnavati Club, Ahmedabad",₹3.8 lakh
+Ahmedabad,2017,Maruti IGNIS DELTA 1.2,"56,803 km",3rd owner,Manual,Petrol,Singarwa Ahmedabad,₹3.19 lakh
+Ahmedabad,2019,Maruti IGNIS ZETA 1.2 AMT,"43,126 km",1st owner,Automatic,Petrol,Prahlad Nagar Ahmedabad Gujarat,₹4.55 lakh
+Ahmedabad,2020,Maruti IGNIS ZETA 1.2,"17,640 km",2nd owner,Manual,Petrol,Gandhinagar Ahmedabad Gujarat,₹4.12 lakh
+Ahmedabad,2011,Maruti Kizashi 2.4L AT,"1,04,081 km",2nd owner,Automatic,Petrol,Jodhpur Village Ahmedabad Gujarat,₹1.64 lakh
+Ahmedabad,2022,Maruti New Wagon-R LXI 1.0,"3,035 km",1st owner,Manual,Petrol,"Naroda, Ahmedabad",₹4.8 lakh
+Ahmedabad,2022,Maruti New Wagon-R LXI CNG 1.0,"53,436 km",1st owner,Manual,CNG,"Naroda, Ahmedabad",₹4.79 lakh
+Ahmedabad,2024,Maruti New Wagon-R VXI CNG 1.0,"25,716 km",1st owner,Manual,Petrol,Chanakyapuri Ahmedabad,₹5.36 lakh
+Ahmedabad,2010,Maruti OMNI E STD,"1,41,303 km",2nd owner,Manual,Petrol,Odhav Ahmedabad Gujarat,₹0.92 lakh
+Ahmedabad,2012,Maruti OMNI E 8 STR,"2,31,492 km",3rd owner,Manual,Petrol,Sarkhej-Okaf Ahmedabad Gujarat,₹0.78 lakh
+Ahmedabad,2017,Maruti OMNI E STD,"1,25,792 km",2nd owner,Manual,Petrol,Sanathal Ahmedabad Gujarat,₹1.26 lakh
+Ahmedabad,2010,Maruti Ritz VXI,"1,59,676 km",2nd owner,Manual,Petrol,Sarkhej Ahmedabad Gujarat,₹0.7 lakh
+Ahmedabad,2011,Maruti Ritz LDI,"2,36,673 km",1st owner,Manual,Diesel,Vasna Ahmedabad Gujarat,₹1 lakh
+Ahmedabad,2011,Maruti Ritz VDI,"93,937 km",4th owner,Manual,Diesel,Saraspur Ahmedabad Gujarat,₹0.99 lakh
+Ahmedabad,2016,Maruti S Cross ZETA 1.6,"99,636 km",2nd owner,Manual,Diesel,Sola Ahmedabad,₹3.53 lakh
+Ahmedabad,2017,Maruti S Cross DELTA 1.3,"98,648 km",2nd owner,Manual,Diesel,Nava Naroda Ahmedabad Gujarat,₹4.77 lakh
+Ahmedabad,2020,Maruti S PRESSO VXI PLUS AMT,"53,384 km",1st owner,Automatic,Petrol,"Naroda, Ahmedabad",₹3.3 lakh
+Ahmedabad,2020,Maruti S PRESSO VXI+,"26,850 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹3.57 lakh
+Ahmedabad,2020,Maruti S PRESSO VXI,"80,730 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹3.05 lakh
+Ahmedabad,2021,Maruti S PRESSO VXI+,"29,275 km",2nd owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹3.6 lakh
+Ahmedabad,2010,Maruti Swift VXI,"58,685 km",2nd owner,Manual,Petrol,Sabarmati Ahmedabad,₹1.4 lakh
+Ahmedabad,2010,Maruti Swift LXI,"2,07,506 km",3rd owner,Manual,Petrol,Makarba Ahmedabad Gujarat,₹1.27 lakh
+Ahmedabad,2010,Maruti Swift VXI,"68,788 km",1st owner,Manual,Petrol,Bajaj Nagar Jaipur,₹1.62 lakh
+Ahmedabad,2010,Maruti Swift VXI,"1,73,271 km",3rd owner,Manual,Petrol,Navrangpura Ahmedabad,₹1 lakh
+Ahmedabad,2011,Maruti Swift LDI,"75,647 km",2nd owner,Manual,Diesel,Sarkhej Ahmedabad Gujarat,₹1.72 lakh
+Ahmedabad,2011,Maruti Swift VDI,"1,02,542 km",2nd owner,Manual,Diesel,Y.M.C.A. Club Makarba Ahmedabad,₹1.72 lakh
+Ahmedabad,2011,Maruti Swift LDI,"84,450 km",2nd owner,Manual,Diesel,Nirnay Nagar Ahmedabad,₹1.6 lakh
+Ahmedabad,2012,Maruti Swift VXI,"64,260 km",1st owner,Manual,Petrol,Chandkheda Ahmedabad,₹2.5 lakh
+Ahmedabad,2013,Maruti Swift VXI,"1,07,657 km",1st owner,Manual,Petrol,Asarva Taluka Ahmedabad Gujarat,₹2.75 lakh
+Ahmedabad,2013,Maruti Swift VXI,"1,69,652 km",2nd owner,Manual,Petrol,Vatva Ahmedabad,₹2.67 lakh
+Ahmedabad,2013,Maruti Swift LXI,"72,737 km",2nd owner,Manual,Petrol,Ghatlodiya Ahmedabad Gujarat,₹2.76 lakh
+Ahmedabad,2014,Maruti Swift VXI,"1,53,374 km",1st owner,Manual,Petrol,Shantigram Gandhinagar Gujarat,₹3.13 lakh
+Ahmedabad,2014,Maruti Swift VXI,"98,381 km",1st owner,Manual,Petrol,Naranpura Ahmedabad,₹3.5 lakh
+Ahmedabad,2014,Maruti Swift VXI,"1,50,662 km",2nd owner,Manual,Petrol,off Sardar Patel Ring Road Shela Gujarat,₹2.99 lakh
+Ahmedabad,2014,Maruti Swift VDI RS,"53,890 km",1st owner,Manual,Diesel,Motera Ahmedabad Gujarat,₹2.75 lakh
+Ahmedabad,2015,Maruti Swift VXI,"90,928 km",2nd owner,Manual,Petrol,null 3HF7+QM Ahmedabad Gujarat,₹3.65 lakh
+Ahmedabad,2015,Maruti Swift VDI,"1,01,618 km",3rd owner,Manual,Diesel,behind Madhav Farm Road Ahmedabad Gujarat,₹3.32 lakh
+Ahmedabad,2015,Maruti Swift VXI,"71,857 km",1st owner,Manual,Petrol,"Naroda, Ahmedabad",₹3.82 lakh
+Ahmedabad,2015,Maruti Swift VDI,"1,78,372 km",1st owner,Manual,Diesel,Sarkhej Ahmedabad Gujarat,₹4.04 lakh
+Ahmedabad,2017,Maruti Swift VXI O,"51,884 km",1st owner,Manual,Petrol,Jodhpur Village Ahmedabad Gujarat,₹4.2 lakh
+Ahmedabad,2018,Maruti Swift VXI,"35,772 km",1st owner,Manual,Petrol,Saraspur Ahmedabad,₹4.36 lakh
+Ahmedabad,2019,Maruti Swift VDI,"1,00,516 km",1st owner,Manual,Diesel,Juhapura Ahmedabad Gujarat,₹5.12 lakh
+Ahmedabad,2019,Maruti Swift ZDI PLUS,"1,12,154 km",1st owner,Manual,Diesel,Sarkhej Ahmedabad Gujarat,₹4.94 lakh
+Ahmedabad,2021,Maruti Swift VXI,"26,349 km",1st owner,Manual,Petrol,GIDC Naroda Ahmedabad Gujarat,₹5.29 lakh
+Ahmedabad,2021,Maruti Swift VXI,"31,198 km",2nd owner,Manual,Petrol,Mumatpura Ahmedabad Gujarat,₹4.96 lakh
+Ahmedabad,2021,Maruti Swift LXI,"51,093 km",2nd owner,Manual,Petrol,Bapunagar Ahmedabad,₹4.26 lakh
+Ahmedabad,2022,Maruti Swift LXI,"27,338 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹5.45 lakh
+Ahmedabad,2023,Maruti Swift VXI AMT,"11,323 km",1st owner,Automatic,Petrol,"Karnavati Club, Ahmedabad",₹6.51 lakh
+Ahmedabad,2024,Maruti Swift ZXi Plus,"7,101 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹7.9 lakh
+Ahmedabad,2024,Maruti Swift ZXI PLUS AMT,"20,860 km",1st owner,Automatic,Petrol,"Naroda, Ahmedabad",₹7.51 lakh
+Ahmedabad,2010,Maruti Swift Dzire LDI,"1,55,548 km",4th owner,Manual,Diesel,Sagar Savar Kundla,₹1.1 lakh
+Ahmedabad,2010,Maruti Swift Dzire VXI,"1,59,845 km",2nd owner,Manual,Petrol,Khokhra Ahmedabad Gujarat,₹1.23 lakh
+Ahmedabad,2010,Maruti Swift Dzire LXI,"95,967 km",2nd owner,Manual,Petrol,Usmanpura Ahmedabad Gujarat,₹1.62 lakh
+Ahmedabad,2010,Maruti Swift Dzire VXI,"1,51,000 km",1st owner,Manual,Petrol,Sola Ahmedabad Gujarat,₹1.34 lakh
+Ahmedabad,2010,Maruti Swift Dzire VDI,"1,64,006 km",2nd owner,Manual,Diesel,Lambha Ahmedabad Gujarat,₹1.02 lakh
+Ahmedabad,2010,Maruti Swift Dzire LDI,"1,05,439 km",1st owner,Manual,Diesel,Bopal Ahmedabad Gujarat,₹1.13 lakh
+Ahmedabad,2011,Maruti Swift Dzire VXI,"1,10,185 km",2nd owner,Manual,Petrol,Juhapura Ahmedabad,₹1.44 lakh
+Ahmedabad,2011,Maruti Swift Dzire VXI,"21,646 km",1st owner,Manual,Petrol,Thaltej Ahmedabad,₹1.7 lakh
+Ahmedabad,2011,Maruti Swift Dzire VXI,"1,35,700 km",4th owner,Manual,Petrol,Jagatpur Ahmedabad Gujarat,₹1.28 lakh
+Ahmedabad,2011,Maruti Swift Dzire VDI,"1,45,499 km",5th owner,Manual,Diesel,Sumel 8 Rehmat Nagar Ahmedabad,₹1.25 lakh
+Ahmedabad,2012,Maruti Swift Dzire TOUR DIESEL,"1,20,034 km",2nd owner,Manual,Diesel,Danilimda Ahmedabad Gujarat,₹1.39 lakh
+Ahmedabad,2012,Maruti Swift Dzire VXI,"93,744 km",2nd owner,Manual,Petrol,Ghuma Ahmedabad Gujarat,₹2.05 lakh
+Ahmedabad,2013,Maruti Swift Dzire ZDI,"1,93,625 km",1st owner,Manual,Diesel,Ahmedabad Ranip Gujarat,₹2.6 lakh
+Ahmedabad,2013,Maruti Swift Dzire VXI,"90,636 km",3rd owner,Manual,Petrol,Rakhial Ahmedabad Gujarat,₹3.08 lakh
+Ahmedabad,2014,Maruti Swift Dzire VXI,"58,680 km",1st owner,Manual,CNG,"Karnavati Club, Ahmedabad",₹3.81 lakh
+Ahmedabad,2014,Maruti Swift Dzire VDI,"91,716 km",1st owner,Manual,Diesel,Nava Naroda Ahmedabad Gujarat,₹3.69 lakh
+Ahmedabad,2015,Maruti Swift Dzire VXI,"1,16,896 km",1st owner,Manual,Petrol,Isanpur Ahmedabad Gujarat,₹3.9 lakh
+Ahmedabad,2015,Maruti Swift Dzire ZXI,"1,05,155 km",1st owner,Manual,Petrol,Nana Chiloda Ahmedabad Gujarat,₹3.2 lakh
+Ahmedabad,2016,Maruti Swift Dzire VXI,"76,428 km",2nd owner,Manual,CNG,"Naroda, Ahmedabad",₹4.3 lakh
+Ahmedabad,2017,Maruti Swift Dzire VDI,"1,73,118 km",1st owner,Manual,Diesel,Electrotherm Factory 3C5R+JX Palodia Gujarat,₹3.5 lakh
+Ahmedabad,2010,Maruti SX4 VXI,"86,000 km",2nd owner,Manual,Petrol,Chanakyapuri Ahmedabad Gujarat,₹1.2 lakh
+Ahmedabad,2010,Maruti SX4 VXI,"1,18,499 km",6th owner,Manual,Petrol,Ognaj Ahmedabad Gujarat,₹0.95 lakh
+Ahmedabad,2012,Maruti SX4 VDI,"85,443 km",2nd owner,Manual,Diesel,Nikol Ahmedabad,₹1.19 lakh
+Ahmedabad,2017,Maruti Vitara Brezza ZDI,"2,31,086 km",1st owner,Manual,Diesel,Hansol Ahmedabad,₹5.07 lakh
+Ahmedabad,2017,Maruti Vitara Brezza ZDI,"1,12,680 km",2nd owner,Manual,Diesel,"Naroda, Ahmedabad",₹5.31 lakh
+Ahmedabad,2017,Maruti Vitara Brezza ZDI,"93,655 km",2nd owner,Manual,Diesel,Chokdi Majara,₹4.62 lakh
+Ahmedabad,2018,Maruti Vitara Brezza VDI,"1,30,000 km",3rd owner,Manual,Diesel,Ramol Ahmedabad Gujarat,₹5 lakh
+Ahmedabad,2018,Maruti Vitara Brezza ZDI PLUS,"1,12,373 km",1st owner,Manual,Diesel,Danilimda Ahmedabad Gujarat,₹5.84 lakh
+Ahmedabad,2022,Maruti Vitara Brezza VXI,"29,515 km",1st owner,Manual,Petrol,Bodakdev Ahmedabad,₹6.98 lakh
+Ahmedabad,2010,Maruti Wagon R 1.0 LXI,"95,668 km",2nd owner,Manual,Petrol,Jivraj Park Ahmedabad,₹1.09 lakh
+Ahmedabad,2010,Maruti Wagon R 1.0 LXI,"1,96,981 km",1st owner,Manual,Petrol,Bhadaj Ahmedabad Gujarat,₹1.32 lakh
+Ahmedabad,2011,Maruti Wagon R 1.0 VXI,"56,802 km",1st owner,Manual,Petrol,Ghatlodiya Ahmedabad,₹1.58 lakh
+Ahmedabad,2011,Maruti Wagon R 1.0 LXI,"1,01,548 km",2nd owner,Manual,Petrol,Ranip Ahmedabad Gujarat,₹1.43 lakh
+Ahmedabad,2011,Maruti Wagon R 1.0 LXI,"1,06,430 km",2nd owner,Manual,Petrol,Chandkheda Ahmedabad Gujarat,₹1.4 lakh
+Ahmedabad,2011,Maruti Wagon R 1.0 LXI,"89,877 km",2nd owner,Manual,Petrol,Odhav Ahmedabad Gujarat,₹1.25 lakh
+Ahmedabad,2012,Maruti Wagon R 1.0 LXI,"1,27,059 km",1st owner,Manual,Petrol,Vinzol Ahmedabad Gujarat,₹1.82 lakh
+Ahmedabad,2012,Maruti Wagon R 1.0 LXI,"1,28,060 km",2nd owner,Manual,Petrol,Ratanpur Village Ahmedabad Gujarat,₹1.65 lakh
+Ahmedabad,2012,Maruti Wagon R 1.0 LXI,"2,48,323 km",2nd owner,Manual,Petrol,Nava Naroda Ahmedabad Gujarat,₹1.57 lakh
+Ahmedabad,2012,Maruti Wagon R 1.0 LXI,"37,097 km",2nd owner,Manual,Petrol,Navrangpura Ahmedabad,₹1.7 lakh
+Ahmedabad,2012,Maruti Wagon R 1.0 LXI,"1,38,232 km",2nd owner,Manual,Petrol,Odhav Ahmedabad Gujarat,₹1.6 lakh
+Ahmedabad,2012,Maruti Wagon R 1.0 LXI,"1,42,000 km",2nd owner,Manual,Petrol,Saijpur Bogha Ahmedabad,₹1.67 lakh
+Ahmedabad,2013,Maruti Wagon R 1.0 VXI,"77,633 km",1st owner,Manual,Petrol,Chandkheda Ahmedabad Gujarat,₹1.89 lakh
+Ahmedabad,2013,Maruti Wagon R 1.0 LXI CNG,"1,64,572 km",1st owner,Manual,Petrol,Chandkheda Ahmedabad Gujarat,₹1.54 lakh
+Ahmedabad,2014,Maruti Wagon R 1.0 LXI,"21,863 km",1st owner,Manual,Petrol,Ghatlodiya Ahmedabad,₹2.55 lakh
+Ahmedabad,2014,Maruti Wagon R 1.0 VXI,"77,000 km",1st owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹2.39 lakh
+Ahmedabad,2014,Maruti Wagon R 1.0 VXI,"75,000 km",2nd owner,Manual,Petrol,Ramdev Nagar Ahmedabad Gujarat,₹1.41 lakh
+Ahmedabad,2014,Maruti Wagon R 1.0 VXI,"1,75,442 km",3rd owner,Manual,Petrol,Sarkhej Ahmedabad Gujarat,₹1.77 lakh
+Ahmedabad,2014,Maruti Wagon R 1.0 VXI,"54,691 km",3rd owner,Manual,CNG,"Karnavati Club, Ahmedabad",₹2.52 lakh
+Ahmedabad,2014,Maruti Wagon R 1.0 VXI,"63,139 km",2nd owner,Manual,Petrol,Chandkheda Ahmedabad Gujarat,₹2.3 lakh
+Ahmedabad,2014,Maruti Wagon R 1.0 VXI,"52,834 km",1st owner,Manual,Petrol,"Naroda, Ahmedabad",₹2.71 lakh
+Ahmedabad,2015,Maruti Wagon R 1.0 VXI,"2,18,064 km",2nd owner,Manual,Petrol,Gota Ahmedabad Gujarat,₹3.52 lakh
+Ahmedabad,2015,Maruti Wagon R 1.0 VXI,"1,01,843 km",1st owner,Manual,Petrol,Odhav Ahmedabad Gujarat,₹2.59 lakh
+Ahmedabad,2015,Maruti Wagon R 1.0 VXI,"1,05,063 km",1st owner,Manual,Petrol,"Ahmedabad, Gujarat Lambha Ahmedabad",₹2.75 lakh
+Ahmedabad,2015,Maruti Wagon R 1.0 VXI,"46,183 km",2nd owner,Manual,Petrol,Satellite Ahmedabad Gujarat,₹2.74 lakh
+Ahmedabad,2015,Maruti Wagon R 1.0 LXI,"80,337 km",2nd owner,Manual,Petrol,Ranip Ahmedabad,₹2.67 lakh
+Ahmedabad,2015,Maruti Wagon R 1.0 LXI,"1,07,604 km",1st owner,Manual,Petrol,Near Balajivrund Complex Maghiya Dholka Dholka,₹2.69 lakh
+Ahmedabad,2015,Maruti Wagon R 1.0 LXI,"1,43,219 km",2nd owner,Manual,Petrol,Vatva Ahmedabad,₹2.55 lakh
+Ahmedabad,2015,Maruti Wagon R 1.0 LXI,"1,35,285 km",1st owner,Manual,Petrol,Bodakdev Ahmedabad Gujarat,₹2.5 lakh
+Ahmedabad,2015,Maruti Wagon R 1.0 VXI,"89,912 km",2nd owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹2.53 lakh
+Ahmedabad,2015,Maruti Wagon R 1.0 VXI,"89,158 km",1st owner,Manual,Petrol,Narolgam Ahmedabad Gujarat,₹2.78 lakh
+Ahmedabad,2015,Maruti Wagon R 1.0 VXI,"92,837 km",1st owner,Manual,Petrol,Vavdi Mohalla Borsad,₹2.58 lakh
+Ahmedabad,2016,Maruti Wagon R 1.0 LXI,"1,08,736 km",2nd owner,Manual,Petrol,Navrangpura Ahmedabad,₹1.89 lakh
+Ahmedabad,2016,Maruti Wagon R 1.0 VXI,"75,574 km",2nd owner,Manual,Petrol,D Colony Ahmedabad,₹2.23 lakh
+Ahmedabad,2016,Maruti Wagon R 1.0 VXI AMT,"71,285 km",1st owner,Automatic,Petrol,"Naroda, Ahmedabad",₹2.73 lakh
+Ahmedabad,2016,Maruti Wagon R 1.0 VXI,"79,174 km",1st owner,Manual,Petrol,Behrampura Ahmedabad Gujarat,₹3 lakh
+Ahmedabad,2016,Maruti Wagon R 1.0 VXI,"18,318 km",2nd owner,Manual,Petrol,"Naroda, Ahmedabad",₹2.87 lakh
+Ahmedabad,2017,Maruti Wagon R 1.0 VXI,"44,062 km",2nd owner,Manual,Petrol,"Karnavati Club, Ahmedabad",₹3.2 lakh
+Ahmedabad,2017,Maruti Wagon R 1.0 VXI,"66,131 km",1st owner,Manual,Petrol,Chandkheda - Zundal Rd Ahmedabad Gujarat,₹3.2 lakh
+Ahmedabad,2017,Maruti Wagon R 1.0 VXI,"89,746 km",2nd owner,Manual,Petrol,Gujarat State Highway 55 Vijapur Gujarat,₹2.5 lakh
+Ahmedabad,2017,Maruti Wagon R 1.0 VXI,"93,939 km",5th owner,Manual,Petrol,Ranip Ahmedabad Gujarat,₹1.79 lakh
+Ahmedabad,2017,Maruti Wagon R 1.0 LXI,"97,050 km",2nd owner,Manual,Petrol,Ambawadi Ahmedabad Gujarat,₹2.49 lakh
+Ahmedabad,2017,Maruti Wagon R 1.0 LXI,"56,810 km",1st owner,Manual,Petrol,"Naroda, Ahmedabad",₹3.18 lakh
+Ahmedabad,2018,Maruti Wagon R 1.0 LXI CNG,"57,393 km",1st owner,Manual,CNG,"Karnavati Club, Ahmedabad",₹3.74 lakh
+Ahmedabad,2018,Maruti Wagon R 1.0 VXI,"79,122 km",3rd owner,Manual,Petrol,Nava Naroda Ahmedabad Gujarat,₹2.5 lakh
+Ahmedabad,2013,Maruti Wagon R Stingray VXI,"97,255 km",2nd owner,Manual,Petrol,Sola Ahmedabad Gujarat,₹2.23 lakh
+Ahmedabad,2021,Maruti XL6 ALPHA MT,"50,695 km",1st owner,Manual,Petrol,Nana Chiloda Ahmedabad Gujarat,₹8.1 lakh
+Ahmedabad,2021,Maruti XL6 ZETA MT,"33,922 km",2nd owner,Manual,Petrol,Nava Naroda Ahmedabad Gujarat,₹7.7 lakh
+Ahmedabad,2022,Maruti XL6 ALPHA MT,"85,439 km",1st owner,Manual,Petrol,Sabarmati Ahmedabad,₹8 lakh
+Ahmedabad,2010,Maruti Zen Estilo LXI,"1,72,523 km",2nd owner,Manual,Petrol,Saijpur Bogha Ahmedabad Gujarat,₹0.88 lakh
+Ahmedabad,2010,Maruti Zen Estilo LXI,"1,64,500 km",3rd owner,Manual,Petrol,Sola Ahmedabad Gujarat,₹0.75 lakh
+Ahmedabad,2011,Maruti Zen Estilo VXI,"2,16,427 km",4th owner,Manual,Petrol,Ranip Ahmedabad Gujarat,₹0.7 lakh
